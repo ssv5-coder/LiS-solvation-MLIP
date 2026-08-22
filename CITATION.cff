@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this model or its datasets, please cite the accompanying manuscript."
+title: "LiS-solvation-MLIP"
+type: software
+authors:
+  - family-names: "Viswanath"
+    given-names: "Shashwat"
+repository-code: "https://github.com/ssv5-coder/LiS-solvation-MLIP"
+license: MIT
+date-released: 2026-08-22
+preferred-citation:
+  type: article
+  title: "Machine-Learned Molecular Dynamics Reveals Solvent-Coupled Polysulfide Dissociation in Lithium-Sulfur Electrolytes"
+  authors:
+    - family-names: "Viswanath"
+      given-names: "Shashwat"
+  year: 2026

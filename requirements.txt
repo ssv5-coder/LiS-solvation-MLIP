@@ -1,0 +1,8 @@
+# Compatible DGL-era environment for the serialized production checkpoint.
+matgl==1.2.3
+dgl==1.1.3
+torch==2.2.0
+torchdata==0.7.1
+numpy==1.26.4
+ase==3.24.0
+pymatgen==2025.3.10
