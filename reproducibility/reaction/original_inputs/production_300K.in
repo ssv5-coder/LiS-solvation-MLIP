@@ -1,0 +1,52 @@
+# -----------------------------------------
+# Continue from npt_300K_0p5fs.final.restart
+# Switch to NVT @ 300 K, timestep = 0.5 fs
+# -----------------------------------------
+
+units         metal
+boundary      p p p
+atom_style    atomic
+
+package gpu 0   # or remove entirely; PyTorch handles the GPU
+
+# Restart from your prior run
+read_restart  npt_300K_0p5fs.final.restart
+
+# mass 3 1.00783  # (example: if you later want isotopes)
+
+# Re-specify pair style/coeffs after a restart
+pair_style    gnnp/gpu /fs/ddn/sdf/group/ml/MLIP_Li_S_Fl_Elec/advancesoft-lammps/src/ML-GNNP
+pair_coeff    * * matgl /fs/ddn/sdf/group/ml/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/big_boy_m3gnet_smaller_stress_ada_2_best C F H Li N O S
+
+# (Optional) custom computes -- currently disabled
+# compute       myTemp all temp
+# compute       pKin   all pressure myTemp ke
+# compute       pVir   all pressure myTemp virial
+# compute       pTot   all pressure myTemp
+
+thermo        10
+thermo_style  custom step time cpu pe ke etotal temp vol density
+# thermo_modify temp myTemp press pTot   # <-- requires computes above; keep commented
+
+# --- Binary trajectory: DCD, every step ---
+# (DCD stores positions; no per-atom "element" column, but ASE can read it)
+dump          nvtDCD all dcd 1 nvt_300K_0p5fs.dcd
+dump_modify   nvtDCD unwrap yes    # continuous coords across PBC
+
+# ----- Timestep: 0.5 fs = 0.0005 ps in 'metal' units
+timestep      0.0005
+
+# ----- NVT @ 300 K (no barostat)
+# Nose–Hoover thermostat time constant Tdamp ~ 0.1 ps is a common start
+fix           1 all nvt temp 300.0 300.0 0.1
+# fix_modify    1 press pTot temp myTemp   # <-- NVT doesn't use press; also requires computes; leave commented
+
+# Optional: restart periodically
+restart       10000 nvt_300K_0p5fs.restart
+
+# Run (e.g., 100 ps): 200,000 * 0.0005 ps = 100 ps
+run           400000
+
+# Save final state
+write_restart nvt_300K_0p5fs.final.restart
+write_data    nvt_300K_0p5fs.final.data

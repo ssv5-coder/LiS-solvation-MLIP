@@ -11,6 +11,12 @@ used for the large-scale ML-MD simulations reported in the manuscript.
 
 ## Contents
 
+For the reviewer reproducibility release and the selected reaction restart
+states prepared for Filippo, start with
+[`reproducibility/README.md`](reproducibility/README.md).
+The recovered fine-tuning sources and runnable final-stage script are in
+[`training/`](training/README.md).
+
 ```text
 LiS-solvation-MLIP/
 |-- data/
@@ -95,7 +101,10 @@ workflow.
 ## Data
 
 - `Training.tar.gz` contains the AIMD configurations used for model fitting.
-- `Testing.tar.gz` contains the chemistry-specific held-out AIMD trajectories.
+- `Testing.tar.gz` contains chemistry-specific AIMD benchmark trajectories.
+  The audit in `training/historical_validation_matches.json` finds overlap
+  with historical validation samples; see the training README before treating
+  these as independent held-out data.
 - `production_trajectories/` documents the final PS and non-PS 300 K coordinate
   trajectories used by the production analyses. The trajectory binaries are
   not included in the current release and will be distributed separately.

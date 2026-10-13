@@ -1,0 +1,49 @@
+diff --git a/src/ML-GNNP/gnnp_driver.py b/src/ML-GNNP/gnnp_driver.py
+index 6d280a72..23fcdd6d 100644
+--- a/src/ML-GNNP/gnnp_driver.py
++++ b/src/ML-GNNP/gnnp_driver.py
+@@ -54,6 +54,8 @@ def gnnp_initialize(gnnp_type, model_name = None, as_path = False, dftd3 = False
+         else:
+             myPotential = matgl.load_model("M3GNet-MP-2021.2.8-PES")
+ 
++        myPotential.to(device)
++
+         myCalculator = PESCalculator(
+             potential      = myPotential,
+             compute_stress = True,
+@@ -156,7 +158,10 @@ def gnnp_initialize(gnnp_type, model_name = None, as_path = False, dftd3 = False
+ 
+         myCalculator = ORBCalculator(orbff, device=device)
+ 
+-        cutoff = float(orbff.model.gnn_stacks[0]._r_max)
++        if hasattr(orbff.model.gnn_stacks[0], "_r_max"):
++            cutoff = float(orbff.model.gnn_stacks[0]._r_max)
++        else:
++            cutoff = float(myCalculator.system_config.radius)
+ 
+     elif gnnp_type == "mattersim":
+         # MatterSim
+@@ -244,7 +249,8 @@ def gnnp_initialize(gnnp_type, model_name = None, as_path = False, dftd3 = False
+             dftd3Calculator = TorchDFTD3Calculator(
+                 xc      = "pbe",
+                 damping = "zero",
+-                abc     = False
++                abc     = False,
++                device  = device
+             )
+ 
+         else:
+@@ -330,4 +336,3 @@ def gnnp_get_energy_forces_stress(cell, atomic_numbers, positions, with_stress =
+         myAtoms.calc = myCalculator
+ 
+     return energy, forces, stress
+-
+diff --git a/src/ML-GNNP/pair_gnnp.cpp b/src/ML-GNNP/pair_gnnp.cpp
+index 0f67cfd3..058a81d9 100644
+--- a/src/ML-GNNP/pair_gnnp.cpp
++++ b/src/ML-GNNP/pair_gnnp.cpp
+@@ -816,4 +816,3 @@ void PairGNNP::toRealElement(char *elem)
+ 
+     elem[m] = '\0';
+ }
+-

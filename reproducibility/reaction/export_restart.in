@@ -1,0 +1,8 @@
+# lmp -var source /path/to/original.restart -var output /path/to/export.data +#     -in export_restart.in
+# Extraction only. Do not run dynamics using this zero-force pair style.
+units metal
+atom_style atomic
+read_restart ${source}
+pair_style zero 5.0
+pair_coeff * *
+write_data ${output} nocoeff

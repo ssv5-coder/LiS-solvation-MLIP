@@ -1,0 +1,8 @@
+# Diagnostic CVs only. No bias is applied. LAMMPS IDs and PLUMED are 1-based.
+# LAMMPS metal uses ps, Angstrom, eV; set these explicitly for PLUMED output.
+UNITS LENGTH=A TIME=ps ENERGY=eV
+s6: GROUP ATOMS=3430-3435
+ss: DISTANCE ATOMS=3432,3433
+li_departing: COORDINATION GROUPA=3437 GROUPB=s6 R_0=3.0 NN=6 MM=12
+li_retained: COORDINATION GROUPA=3436 GROUPB=s6 R_0=3.0 NN=6 MM=12
+PRINT ARG=ss,li_departing,li_retained STRIDE=100 FILE=COLVAR

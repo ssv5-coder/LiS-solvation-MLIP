@@ -1,0 +1,53 @@
+# -----------------------------------------
+#  Heat from 300 K -> 400 K with Langevin+NPH
+#  (continuation from equilib_npt.final.restart)
+# -----------------------------------------
+
+units         metal
+boundary      p p p
+atom_style    atomic
+
+# Ensure GPU package is active before reading restart
+package       gpu 1
+
+# --- Continue from the NPT-equilibrated state
+read_restart  equilib_npt.final.restart
+
+# use the GPU-accelerated GNNP driver you rebuilt
+pair_style    gnnp/gpu /fs/ddn/sdf/group/ml/MLIP_Li_S_Fl_Elec/advancesoft-lammps/src/ML-GNNP
+
+pair_coeff    * * matgl /fs/ddn/sdf/group/ml/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/big_boy_m3gnet_smaller_stress_ada_2_best C F H Li N O S
+
+# Recreate computes (fixes are not stored; must be redefined after read_restart)
+compute       myTemp all temp
+compute       pKin   all pressure myTemp ke
+compute       pVir   all pressure myTemp virial
+compute       pTot   all pressure myTemp
+
+# --- Output
+thermo        10
+thermo_style  custom step time cpu pe ke etotal temp press vol density
+
+dump          heatDump all custom 10 heat_300to400.lammpstrj id element x y z
+dump_modify   heatDump sort id element C F H Li N O S
+
+# --- Time step
+timestep      0.001     # 1 fs in metal units
+
+# --- Thermostat (ramp 300 -> 400 K over this run) and barostat (1 atm)
+#     Same parameters as before: Tdamp = 0.1 ps, tau_p = 1.0 ps, same seed
+fix           1 all langevin 300.0 350.0 1.0 18236
+fix           2 all nph iso 1.01325 1.01325 5.0
+
+# Use our temperature/pressure computes inside the barostat for consistency
+fix_modify    2 temp myTemp press pTot
+
+# --- Restart files during the heat
+restart       10000 heat_nph.restart
+
+# --- Run for 100 ps (100,000 steps at 1 fs)
+run           200000
+
+# --- Write final state
+write_restart heat_300to350.final.restart
+write_data    heat_300to350.final.data

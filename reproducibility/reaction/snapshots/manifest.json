@@ -1,0 +1,138 @@
+[
+  {
+    "file_stem": "ps_100ps",
+    "physical_time_ps": 100,
+    "lammps_step": 50000,
+    "source_restart_relative_to_PS": "equilib_npt.restart.50000",
+    "source_dump_relative_to_PS": "xyz.lammpstrj",
+    "atoms": 3445,
+    "cell_A": [
+      [
+        32.05951181510402,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        32.059506522096534,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        32.05953441504188
+      ]
+    ],
+    "temperature_from_3N_dof_K": 174.05058168221512,
+    "central_SS_A": 2.060940574696858,
+    "original_Li_min_S_distances_A": {
+      "3436": 2.383115230026566,
+      "3437": 2.677211175220793
+    },
+    "target_temperature_K": 175,
+    "velocity_units_data_and_csv": "Angstrom/ps",
+    "extxyz_velocities": "ASE momenta with isotope masses; use atoms.get_velocities()"
+  },
+  {
+    "file_stem": "ps_260ps",
+    "physical_time_ps": 260,
+    "lammps_step": 160000,
+    "source_restart_relative_to_PS": "HU_300-350K_1fs/prev_job/heat_nph.restart.160000",
+    "source_dump_relative_to_PS": "HU_300-350K_1fs/prev_job/heat_300to400.lammpstrj",
+    "atoms": 3445,
+    "cell_A": [
+      [
+        32.89432361898977,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        32.89431818815443,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        32.8943468074195
+      ]
+    ],
+    "temperature_from_3N_dof_K": 316.8688262830987,
+    "central_SS_A": 2.0193435907955735,
+    "original_Li_min_S_distances_A": {
+      "3436": 2.327021873278027,
+      "3437": 7.409879475219032
+    },
+    "target_temperature_K": 315,
+    "velocity_units_data_and_csv": "Angstrom/ps",
+    "extxyz_velocities": "ASE momenta with isotope masses; use atoms.get_velocities()"
+  },
+  {
+    "file_stem": "ps_330ps",
+    "physical_time_ps": 330,
+    "lammps_step": 230000,
+    "source_restart_relative_to_PS": "HU_300-350K_1fs/heat_nph.restart.230000",
+    "source_dump_relative_to_PS": "HU_300-350K_1fs/heat_300to400.lammpstrj",
+    "atoms": 3445,
+    "cell_A": [
+      [
+        33.09132546164086,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        33.09131999827924,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        33.09134878894369
+      ]
+    ],
+    "temperature_from_3N_dof_K": 336.4925971609303,
+    "central_SS_A": 2.1294576954563054,
+    "original_Li_min_S_distances_A": {
+      "3436": 2.3505766065609532,
+      "3437": 7.992261919319055
+    },
+    "target_temperature_K": 332.5,
+    "velocity_units_data_and_csv": "Angstrom/ps",
+    "extxyz_velocities": "ASE momenta with isotope masses; use atoms.get_velocities()"
+  },
+  {
+    "file_stem": "ps_340ps",
+    "physical_time_ps": 340,
+    "lammps_step": 240000,
+    "source_restart_relative_to_PS": "HU_300-350K_1fs/heat_nph.restart.240000",
+    "source_dump_relative_to_PS": "HU_300-350K_1fs/heat_300to400.lammpstrj",
+    "atoms": 3445,
+    "cell_A": [
+      [
+        33.08691835848609,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        33.08691289585184,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        33.08694168268146
+      ]
+    ],
+    "temperature_from_3N_dof_K": 331.8344065951812,
+    "central_SS_A": 2.1274824220688258,
+    "original_Li_min_S_distances_A": {
+      "3436": 2.401586758383427,
+      "3437": 8.69916303884961
+    },
+    "target_temperature_K": 335,
+    "velocity_units_data_and_csv": "Angstrom/ps",
+    "extxyz_velocities": "ASE momenta with isotope masses; use atoms.get_velocities()"
+  }
+]

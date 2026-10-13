@@ -1,0 +1,16 @@
+{
+  "models/final_stage_initialization/model.json": "95377eca48164928d3634551a782b8be1321fb2336e974834962fae064927f81",
+  "models/final_stage_initialization/model.pt": "b4a4d9ed59e3bf281b0f6f4633dbd8fec26d7a3a0b761b2114ad6d389075c57b",
+  "models/final_stage_initialization/state.pt": "45e32d464df8cfe76e5eae776dcd1005abf5f1107d39271830c95ab22819ae59",
+  "reproducibility/reaction/original_inputs/heat_original.in": "e5ceb646abbda42d591f07869741dca8d5d1eeff04be5806e0be69fe3f9ba2a8",
+  "reproducibility/reaction/original_inputs/heat_restart_200000.in": "5b3f34ab7265df68b4e5875f4520db28efdbe827fb50df1e4ea5e97fbade3116",
+  "reproducibility/reaction/original_inputs/initial_50_to_300K.in": "f936d4181ee826e253c8c3f546f2e7c4bbb52078be497b00a8b7ddfb03c0c577",
+  "reproducibility/reaction/original_inputs/production_300K.in": "1b14449406c3846980316bd8bf3ddf824f99ab940f7fe5e57eb7fd665de12aef",
+  "reproducibility/reaction/original_inputs/restart_lineage.csv": "4403ce2aa778bdc3cd4ea469f8d91173da3bed63a5345146d7403a8d54ced059",
+  "reproducibility/reaction/original_inputs/stitch_valid_preequilibration.py": "19b36e1479333c61473413f81fb38f5d563263f37a5cc82d3da5948c608690a0",
+  "reproducibility/reaction/original_inputs/submit_lammps.sh": "a6b79444d7c64e48f9ecf55f6552860da1f3279c517eb85f1a04899387a8f8f0",
+  "training/original/Finetuning_preprocessing.ipynb": "f5beabde63cf63086f1428f4197f086664f9f0c88df557b7b424fc8d5d1eae82",
+  "training/original/Finetuning_smaller_ada.py": "ff415ef808f310dfee50de7fc3c66de73213df306d1a8661d74f689ea0d67be7",
+  "training/original/hparams.yaml": "ccd53cceecfd41696a6d1db0e7f83555fadb6220e150df60a12289d075d92cdb",
+  "training/original/metrics.csv": "8062934575701e38992722f4d2761646973c2c2d93467a7e17f8c5d8f8d698bc"
+}

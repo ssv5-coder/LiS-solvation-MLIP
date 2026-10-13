@@ -1,0 +1,55 @@
+# ----------------------------
+#  Equilibration with ML-GNNP
+# ----------------------------
+units         metal
+boundary      p p p
+atom_style    atomic
+
+package       gpu 1
+
+read_data     ./dat_5x.lammps
+
+mass 3 3.016049
+
+# use the GPU-accelerated GNNP driver you rebuilt
+pair_style    gnnp/gpu /fs/ddn/sdf/group/ml/MLIP_Li_S_Fl_Elec/advancesoft-lammps/src/ML-GNNP
+
+pair_coeff    * * matgl /fs/ddn/sdf/group/ml/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/big_boy_m3gnet_smaller_stress_ada_2_best C F H Li N O S
+
+# ————————————————————————————————————————————————————————————
+# 2) NPT equilibration at 300 K & 1 atm, but invert P for the barostat
+# ————————————————————————————————————————————————————————————
+
+compute       myTemp all temp
+
+compute  pKin all pressure myTemp ke      # kinetic only
+compute  pVir all pressure myTemp virial  # virial only
+compute  pTot all pressure myTemp         # full (kinetic + virial)
+
+# — Output settings
+thermo        10
+thermo_style  custom step time cpu pe ke etotal temp press vol density
+
+dump          myDump all custom 10 xyz.lammpstrj id element x y z
+dump_modify   myDump sort id element C F H Li N O S
+
+# — Time step
+timestep      0.002    # 1 fs
+
+# — Langevin thermostat + NPH barostat:
+#    • Ramp temp from 50 ? 300 K over 200 ps (200 000 steps)
+#    • Langevin damping t = 0.1 ps, seed = 18236
+#    • NPH barostat at 1 atm with t_p = 0.5 ps
+velocity all create 50.0 18236 dist gaussian
+fix           1 all langevin 50.0 300.0 1.0 18236
+fix           2 all nph iso 1.01325 1.01325 5.0
+
+# — Restart files every 10 000 steps
+restart       10000 equilib_npt.restart
+
+# — Run for 100 000 steps = 100 ps
+run           100000
+
+# — Write final restart and data
+write_restart equilib_npt.final.restart
+write_data    equilib_npt.final.data

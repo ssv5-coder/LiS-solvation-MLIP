@@ -1,0 +1,7214 @@
+[
+  {
+    "validation_index": 0,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 0
+      }
+    ]
+  },
+  {
+    "validation_index": 1,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 10
+      }
+    ]
+  },
+  {
+    "validation_index": 2,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 20
+      }
+    ]
+  },
+  {
+    "validation_index": 3,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 30
+      }
+    ]
+  },
+  {
+    "validation_index": 4,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 40
+      }
+    ]
+  },
+  {
+    "validation_index": 5,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 50
+      }
+    ]
+  },
+  {
+    "validation_index": 6,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 60
+      }
+    ]
+  },
+  {
+    "validation_index": 7,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 70
+      }
+    ]
+  },
+  {
+    "validation_index": 8,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 80
+      }
+    ]
+  },
+  {
+    "validation_index": 9,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 90
+      }
+    ]
+  },
+  {
+    "validation_index": 10,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 100
+      }
+    ]
+  },
+  {
+    "validation_index": 11,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 110
+      }
+    ]
+  },
+  {
+    "validation_index": 12,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 120
+      }
+    ]
+  },
+  {
+    "validation_index": 13,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 130
+      }
+    ]
+  },
+  {
+    "validation_index": 14,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 140
+      }
+    ]
+  },
+  {
+    "validation_index": 15,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 150
+      }
+    ]
+  },
+  {
+    "validation_index": 16,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 160
+      }
+    ]
+  },
+  {
+    "validation_index": 17,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 170
+      }
+    ]
+  },
+  {
+    "validation_index": 18,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 180
+      }
+    ]
+  },
+  {
+    "validation_index": 19,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 190
+      }
+    ]
+  },
+  {
+    "validation_index": 20,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 200
+      }
+    ]
+  },
+  {
+    "validation_index": 21,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 210
+      }
+    ]
+  },
+  {
+    "validation_index": 22,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 220
+      }
+    ]
+  },
+  {
+    "validation_index": 23,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 230
+      }
+    ]
+  },
+  {
+    "validation_index": 24,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 240
+      }
+    ]
+  },
+  {
+    "validation_index": 25,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 250
+      }
+    ]
+  },
+  {
+    "validation_index": 26,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 260
+      }
+    ]
+  },
+  {
+    "validation_index": 27,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 270
+      }
+    ]
+  },
+  {
+    "validation_index": 28,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 280
+      }
+    ]
+  },
+  {
+    "validation_index": 29,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 290
+      }
+    ]
+  },
+  {
+    "validation_index": 30,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 300
+      }
+    ]
+  },
+  {
+    "validation_index": 31,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 310
+      }
+    ]
+  },
+  {
+    "validation_index": 32,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 320
+      }
+    ]
+  },
+  {
+    "validation_index": 33,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 330
+      }
+    ]
+  },
+  {
+    "validation_index": 34,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 340
+      }
+    ]
+  },
+  {
+    "validation_index": 35,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 350
+      }
+    ]
+  },
+  {
+    "validation_index": 36,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 360
+      }
+    ]
+  },
+  {
+    "validation_index": 37,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 370
+      }
+    ]
+  },
+  {
+    "validation_index": 38,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 380
+      }
+    ]
+  },
+  {
+    "validation_index": 39,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 390
+      }
+    ]
+  },
+  {
+    "validation_index": 40,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 400
+      }
+    ]
+  },
+  {
+    "validation_index": 41,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 410
+      }
+    ]
+  },
+  {
+    "validation_index": 42,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 420
+      }
+    ]
+  },
+  {
+    "validation_index": 43,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 430
+      }
+    ]
+  },
+  {
+    "validation_index": 44,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 440
+      }
+    ]
+  },
+  {
+    "validation_index": 45,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 450
+      }
+    ]
+  },
+  {
+    "validation_index": 46,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 460
+      }
+    ]
+  },
+  {
+    "validation_index": 47,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 470
+      }
+    ]
+  },
+  {
+    "validation_index": 48,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 480
+      }
+    ]
+  },
+  {
+    "validation_index": 49,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 490
+      }
+    ]
+  },
+  {
+    "validation_index": 50,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 500
+      }
+    ]
+  },
+  {
+    "validation_index": 51,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 510
+      }
+    ]
+  },
+  {
+    "validation_index": 52,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 520
+      }
+    ]
+  },
+  {
+    "validation_index": 53,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 530
+      }
+    ]
+  },
+  {
+    "validation_index": 54,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 540
+      }
+    ]
+  },
+  {
+    "validation_index": 55,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 550
+      }
+    ]
+  },
+  {
+    "validation_index": 56,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 560
+      }
+    ]
+  },
+  {
+    "validation_index": 57,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 570
+      }
+    ]
+  },
+  {
+    "validation_index": 58,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 580
+      }
+    ]
+  },
+  {
+    "validation_index": 59,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 590
+      }
+    ]
+  },
+  {
+    "validation_index": 60,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 600
+      }
+    ]
+  },
+  {
+    "validation_index": 61,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 610
+      }
+    ]
+  },
+  {
+    "validation_index": 62,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 620
+      }
+    ]
+  },
+  {
+    "validation_index": 63,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 630
+      }
+    ]
+  },
+  {
+    "validation_index": 64,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 640
+      }
+    ]
+  },
+  {
+    "validation_index": 65,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 650
+      }
+    ]
+  },
+  {
+    "validation_index": 66,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 660
+      }
+    ]
+  },
+  {
+    "validation_index": 67,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 670
+      }
+    ]
+  },
+  {
+    "validation_index": 68,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 680
+      }
+    ]
+  },
+  {
+    "validation_index": 69,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 690
+      }
+    ]
+  },
+  {
+    "validation_index": 70,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 700
+      }
+    ]
+  },
+  {
+    "validation_index": 71,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 710
+      }
+    ]
+  },
+  {
+    "validation_index": 72,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 720
+      }
+    ]
+  },
+  {
+    "validation_index": 73,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 730
+      }
+    ]
+  },
+  {
+    "validation_index": 74,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 740
+      }
+    ]
+  },
+  {
+    "validation_index": 75,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 750
+      }
+    ]
+  },
+  {
+    "validation_index": 76,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 760
+      }
+    ]
+  },
+  {
+    "validation_index": 77,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 770
+      }
+    ]
+  },
+  {
+    "validation_index": 78,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 780
+      }
+    ]
+  },
+  {
+    "validation_index": 79,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 790
+      }
+    ]
+  },
+  {
+    "validation_index": 80,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 800
+      }
+    ]
+  },
+  {
+    "validation_index": 81,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 810
+      }
+    ]
+  },
+  {
+    "validation_index": 82,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 820
+      }
+    ]
+  },
+  {
+    "validation_index": 83,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 830
+      }
+    ]
+  },
+  {
+    "validation_index": 84,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 840
+      }
+    ]
+  },
+  {
+    "validation_index": 85,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 850
+      }
+    ]
+  },
+  {
+    "validation_index": 86,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 860
+      }
+    ]
+  },
+  {
+    "validation_index": 87,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 870
+      }
+    ]
+  },
+  {
+    "validation_index": 88,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 880
+      }
+    ]
+  },
+  {
+    "validation_index": 89,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 890
+      }
+    ]
+  },
+  {
+    "validation_index": 90,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 900
+      }
+    ]
+  },
+  {
+    "validation_index": 91,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 910
+      }
+    ]
+  },
+  {
+    "validation_index": 92,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 920
+      }
+    ]
+  },
+  {
+    "validation_index": 93,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 930
+      }
+    ]
+  },
+  {
+    "validation_index": 94,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 940
+      }
+    ]
+  },
+  {
+    "validation_index": 95,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 950
+      }
+    ]
+  },
+  {
+    "validation_index": 96,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 960
+      }
+    ]
+  },
+  {
+    "validation_index": 97,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 970
+      }
+    ]
+  },
+  {
+    "validation_index": 98,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 980
+      }
+    ]
+  },
+  {
+    "validation_index": 99,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 990
+      }
+    ]
+  },
+  {
+    "validation_index": 100,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1000
+      }
+    ]
+  },
+  {
+    "validation_index": 101,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1010
+      }
+    ]
+  },
+  {
+    "validation_index": 102,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1020
+      }
+    ]
+  },
+  {
+    "validation_index": 103,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1030
+      }
+    ]
+  },
+  {
+    "validation_index": 104,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1040
+      }
+    ]
+  },
+  {
+    "validation_index": 105,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1050
+      }
+    ]
+  },
+  {
+    "validation_index": 106,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1060
+      }
+    ]
+  },
+  {
+    "validation_index": 107,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1070
+      }
+    ]
+  },
+  {
+    "validation_index": 108,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1080
+      }
+    ]
+  },
+  {
+    "validation_index": 109,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1090
+      }
+    ]
+  },
+  {
+    "validation_index": 110,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1100
+      }
+    ]
+  },
+  {
+    "validation_index": 111,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1110
+      }
+    ]
+  },
+  {
+    "validation_index": 112,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1120
+      }
+    ]
+  },
+  {
+    "validation_index": 113,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1130
+      }
+    ]
+  },
+  {
+    "validation_index": 114,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1140
+      }
+    ]
+  },
+  {
+    "validation_index": 115,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1150
+      }
+    ]
+  },
+  {
+    "validation_index": 116,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1160
+      }
+    ]
+  },
+  {
+    "validation_index": 117,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1170
+      }
+    ]
+  },
+  {
+    "validation_index": 118,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1180
+      }
+    ]
+  },
+  {
+    "validation_index": 119,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1190
+      }
+    ]
+  },
+  {
+    "validation_index": 120,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1200
+      }
+    ]
+  },
+  {
+    "validation_index": 121,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1210
+      }
+    ]
+  },
+  {
+    "validation_index": 122,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1220
+      }
+    ]
+  },
+  {
+    "validation_index": 123,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1230
+      }
+    ]
+  },
+  {
+    "validation_index": 124,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1240
+      }
+    ]
+  },
+  {
+    "validation_index": 125,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1250
+      }
+    ]
+  },
+  {
+    "validation_index": 126,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1260
+      }
+    ]
+  },
+  {
+    "validation_index": 127,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1270
+      }
+    ]
+  },
+  {
+    "validation_index": 128,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1280
+      }
+    ]
+  },
+  {
+    "validation_index": 129,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1290
+      }
+    ]
+  },
+  {
+    "validation_index": 130,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1300
+      }
+    ]
+  },
+  {
+    "validation_index": 131,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1310
+      }
+    ]
+  },
+  {
+    "validation_index": 132,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1320
+      }
+    ]
+  },
+  {
+    "validation_index": 133,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1330
+      }
+    ]
+  },
+  {
+    "validation_index": 134,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1340
+      }
+    ]
+  },
+  {
+    "validation_index": 135,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1350
+      }
+    ]
+  },
+  {
+    "validation_index": 136,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1360
+      }
+    ]
+  },
+  {
+    "validation_index": 137,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1370
+      }
+    ]
+  },
+  {
+    "validation_index": 138,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1380
+      }
+    ]
+  },
+  {
+    "validation_index": 139,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1390
+      }
+    ]
+  },
+  {
+    "validation_index": 140,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1400
+      }
+    ]
+  },
+  {
+    "validation_index": 141,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1410
+      }
+    ]
+  },
+  {
+    "validation_index": 142,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1420
+      }
+    ]
+  },
+  {
+    "validation_index": 143,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1430
+      }
+    ]
+  },
+  {
+    "validation_index": 144,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1440
+      }
+    ]
+  },
+  {
+    "validation_index": 145,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1450
+      }
+    ]
+  },
+  {
+    "validation_index": 146,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1460
+      }
+    ]
+  },
+  {
+    "validation_index": 147,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1470
+      }
+    ]
+  },
+  {
+    "validation_index": 148,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1480
+      }
+    ]
+  },
+  {
+    "validation_index": 149,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1490
+      }
+    ]
+  },
+  {
+    "validation_index": 150,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1500
+      }
+    ]
+  },
+  {
+    "validation_index": 151,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1510
+      }
+    ]
+  },
+  {
+    "validation_index": 152,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1520
+      }
+    ]
+  },
+  {
+    "validation_index": 153,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1530
+      }
+    ]
+  },
+  {
+    "validation_index": 154,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1540
+      }
+    ]
+  },
+  {
+    "validation_index": 155,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1550
+      }
+    ]
+  },
+  {
+    "validation_index": 156,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1560
+      }
+    ]
+  },
+  {
+    "validation_index": 157,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1570
+      }
+    ]
+  },
+  {
+    "validation_index": 158,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1580
+      }
+    ]
+  },
+  {
+    "validation_index": 159,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1590
+      }
+    ]
+  },
+  {
+    "validation_index": 160,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1600
+      }
+    ]
+  },
+  {
+    "validation_index": 161,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1610
+      }
+    ]
+  },
+  {
+    "validation_index": 162,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1620
+      }
+    ]
+  },
+  {
+    "validation_index": 163,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1630
+      }
+    ]
+  },
+  {
+    "validation_index": 164,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1640
+      }
+    ]
+  },
+  {
+    "validation_index": 165,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1650
+      }
+    ]
+  },
+  {
+    "validation_index": 166,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1660
+      }
+    ]
+  },
+  {
+    "validation_index": 167,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1670
+      }
+    ]
+  },
+  {
+    "validation_index": 168,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1680
+      }
+    ]
+  },
+  {
+    "validation_index": 169,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1690
+      }
+    ]
+  },
+  {
+    "validation_index": 170,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1700
+      }
+    ]
+  },
+  {
+    "validation_index": 171,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1710
+      }
+    ]
+  },
+  {
+    "validation_index": 172,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1720
+      }
+    ]
+  },
+  {
+    "validation_index": 173,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1730
+      }
+    ]
+  },
+  {
+    "validation_index": 174,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1740
+      }
+    ]
+  },
+  {
+    "validation_index": 175,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1750
+      }
+    ]
+  },
+  {
+    "validation_index": 176,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1760
+      }
+    ]
+  },
+  {
+    "validation_index": 177,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1770
+      }
+    ]
+  },
+  {
+    "validation_index": 178,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1780
+      }
+    ]
+  },
+  {
+    "validation_index": 179,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1790
+      }
+    ]
+  },
+  {
+    "validation_index": 180,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1800
+      }
+    ]
+  },
+  {
+    "validation_index": 181,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1810
+      }
+    ]
+  },
+  {
+    "validation_index": 182,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1820
+      }
+    ]
+  },
+  {
+    "validation_index": 183,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1830
+      }
+    ]
+  },
+  {
+    "validation_index": 184,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1840
+      }
+    ]
+  },
+  {
+    "validation_index": 185,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1850
+      }
+    ]
+  },
+  {
+    "validation_index": 186,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1860
+      }
+    ]
+  },
+  {
+    "validation_index": 187,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1870
+      }
+    ]
+  },
+  {
+    "validation_index": 188,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1880
+      }
+    ]
+  },
+  {
+    "validation_index": 189,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1890
+      }
+    ]
+  },
+  {
+    "validation_index": 190,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1900
+      }
+    ]
+  },
+  {
+    "validation_index": 191,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1910
+      }
+    ]
+  },
+  {
+    "validation_index": 192,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1920
+      }
+    ]
+  },
+  {
+    "validation_index": 193,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1930
+      }
+    ]
+  },
+  {
+    "validation_index": 194,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1940
+      }
+    ]
+  },
+  {
+    "validation_index": 195,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1950
+      }
+    ]
+  },
+  {
+    "validation_index": 196,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1960
+      }
+    ]
+  },
+  {
+    "validation_index": 197,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1970
+      }
+    ]
+  },
+  {
+    "validation_index": 198,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1980
+      }
+    ]
+  },
+  {
+    "validation_index": 199,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1990
+      }
+    ]
+  },
+  {
+    "validation_index": 200,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 1999
+      },
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2000
+      }
+    ]
+  },
+  {
+    "validation_index": 201,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2010
+      }
+    ]
+  },
+  {
+    "validation_index": 202,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2020
+      }
+    ]
+  },
+  {
+    "validation_index": 203,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2030
+      }
+    ]
+  },
+  {
+    "validation_index": 204,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2040
+      }
+    ]
+  },
+  {
+    "validation_index": 205,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2050
+      }
+    ]
+  },
+  {
+    "validation_index": 206,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2060
+      }
+    ]
+  },
+  {
+    "validation_index": 207,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2070
+      }
+    ]
+  },
+  {
+    "validation_index": 208,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2080
+      }
+    ]
+  },
+  {
+    "validation_index": 209,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2090
+      }
+    ]
+  },
+  {
+    "validation_index": 210,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2100
+      }
+    ]
+  },
+  {
+    "validation_index": 211,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2110
+      }
+    ]
+  },
+  {
+    "validation_index": 212,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2120
+      }
+    ]
+  },
+  {
+    "validation_index": 213,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2130
+      }
+    ]
+  },
+  {
+    "validation_index": 214,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2140
+      }
+    ]
+  },
+  {
+    "validation_index": 215,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2150
+      }
+    ]
+  },
+  {
+    "validation_index": 216,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2160
+      }
+    ]
+  },
+  {
+    "validation_index": 217,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2170
+      }
+    ]
+  },
+  {
+    "validation_index": 218,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2180
+      }
+    ]
+  },
+  {
+    "validation_index": 219,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2190
+      }
+    ]
+  },
+  {
+    "validation_index": 220,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2200
+      }
+    ]
+  },
+  {
+    "validation_index": 221,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2210
+      }
+    ]
+  },
+  {
+    "validation_index": 222,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2220
+      }
+    ]
+  },
+  {
+    "validation_index": 223,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2230
+      }
+    ]
+  },
+  {
+    "validation_index": 224,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2240
+      }
+    ]
+  },
+  {
+    "validation_index": 225,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2250
+      }
+    ]
+  },
+  {
+    "validation_index": 226,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2260
+      }
+    ]
+  },
+  {
+    "validation_index": 227,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2270
+      }
+    ]
+  },
+  {
+    "validation_index": 228,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2280
+      }
+    ]
+  },
+  {
+    "validation_index": 229,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2290
+      }
+    ]
+  },
+  {
+    "validation_index": 230,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2300
+      }
+    ]
+  },
+  {
+    "validation_index": 231,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2310
+      }
+    ]
+  },
+  {
+    "validation_index": 232,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2320
+      }
+    ]
+  },
+  {
+    "validation_index": 233,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2330
+      }
+    ]
+  },
+  {
+    "validation_index": 234,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2340
+      }
+    ]
+  },
+  {
+    "validation_index": 235,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2350
+      }
+    ]
+  },
+  {
+    "validation_index": 236,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2360
+      }
+    ]
+  },
+  {
+    "validation_index": 237,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2370
+      }
+    ]
+  },
+  {
+    "validation_index": 238,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2380
+      }
+    ]
+  },
+  {
+    "validation_index": 239,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2390
+      }
+    ]
+  },
+  {
+    "validation_index": 240,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2400
+      }
+    ]
+  },
+  {
+    "validation_index": 241,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2410
+      }
+    ]
+  },
+  {
+    "validation_index": 242,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2420
+      }
+    ]
+  },
+  {
+    "validation_index": 243,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2430
+      }
+    ]
+  },
+  {
+    "validation_index": 244,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2440
+      }
+    ]
+  },
+  {
+    "validation_index": 245,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2450
+      }
+    ]
+  },
+  {
+    "validation_index": 246,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2460
+      }
+    ]
+  },
+  {
+    "validation_index": 247,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2470
+      }
+    ]
+  },
+  {
+    "validation_index": 248,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2480
+      }
+    ]
+  },
+  {
+    "validation_index": 249,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2490
+      }
+    ]
+  },
+  {
+    "validation_index": 250,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2500
+      }
+    ]
+  },
+  {
+    "validation_index": 251,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2510
+      }
+    ]
+  },
+  {
+    "validation_index": 252,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2520
+      }
+    ]
+  },
+  {
+    "validation_index": 253,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2530
+      }
+    ]
+  },
+  {
+    "validation_index": 254,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2540
+      }
+    ]
+  },
+  {
+    "validation_index": 255,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2550
+      }
+    ]
+  },
+  {
+    "validation_index": 256,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2560
+      }
+    ]
+  },
+  {
+    "validation_index": 257,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2570
+      }
+    ]
+  },
+  {
+    "validation_index": 258,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2580
+      }
+    ]
+  },
+  {
+    "validation_index": 259,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2590
+      }
+    ]
+  },
+  {
+    "validation_index": 260,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2600
+      }
+    ]
+  },
+  {
+    "validation_index": 261,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2610
+      }
+    ]
+  },
+  {
+    "validation_index": 262,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2620
+      }
+    ]
+  },
+  {
+    "validation_index": 263,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2630
+      }
+    ]
+  },
+  {
+    "validation_index": 264,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2640
+      }
+    ]
+  },
+  {
+    "validation_index": 265,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2650
+      }
+    ]
+  },
+  {
+    "validation_index": 266,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2660
+      }
+    ]
+  },
+  {
+    "validation_index": 267,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2670
+      }
+    ]
+  },
+  {
+    "validation_index": 268,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2680
+      }
+    ]
+  },
+  {
+    "validation_index": 269,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2690
+      }
+    ]
+  },
+  {
+    "validation_index": 270,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2700
+      }
+    ]
+  },
+  {
+    "validation_index": 271,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2710
+      }
+    ]
+  },
+  {
+    "validation_index": 272,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2720
+      }
+    ]
+  },
+  {
+    "validation_index": 273,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2730
+      }
+    ]
+  },
+  {
+    "validation_index": 274,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2740
+      }
+    ]
+  },
+  {
+    "validation_index": 275,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2750
+      }
+    ]
+  },
+  {
+    "validation_index": 276,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2760
+      }
+    ]
+  },
+  {
+    "validation_index": 277,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2770
+      }
+    ]
+  },
+  {
+    "validation_index": 278,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2780
+      }
+    ]
+  },
+  {
+    "validation_index": 279,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2790
+      }
+    ]
+  },
+  {
+    "validation_index": 280,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2800
+      }
+    ]
+  },
+  {
+    "validation_index": 281,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2810
+      }
+    ]
+  },
+  {
+    "validation_index": 282,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2820
+      }
+    ]
+  },
+  {
+    "validation_index": 283,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2830
+      }
+    ]
+  },
+  {
+    "validation_index": 284,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2840
+      }
+    ]
+  },
+  {
+    "validation_index": 285,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2850
+      }
+    ]
+  },
+  {
+    "validation_index": 286,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2860
+      }
+    ]
+  },
+  {
+    "validation_index": 287,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2870
+      }
+    ]
+  },
+  {
+    "validation_index": 288,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2880
+      }
+    ]
+  },
+  {
+    "validation_index": 289,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2890
+      }
+    ]
+  },
+  {
+    "validation_index": 290,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2900
+      }
+    ]
+  },
+  {
+    "validation_index": 291,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2910
+      }
+    ]
+  },
+  {
+    "validation_index": 292,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2920
+      }
+    ]
+  },
+  {
+    "validation_index": 293,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2930
+      }
+    ]
+  },
+  {
+    "validation_index": 294,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2940
+      }
+    ]
+  },
+  {
+    "validation_index": 295,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2950
+      }
+    ]
+  },
+  {
+    "validation_index": 296,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2960
+      }
+    ]
+  },
+  {
+    "validation_index": 297,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2970
+      }
+    ]
+  },
+  {
+    "validation_index": 298,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2980
+      }
+    ]
+  },
+  {
+    "validation_index": 299,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2990
+      }
+    ]
+  },
+  {
+    "validation_index": 300,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 2999
+      },
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3000
+      }
+    ]
+  },
+  {
+    "validation_index": 301,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3010
+      }
+    ]
+  },
+  {
+    "validation_index": 302,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3020
+      }
+    ]
+  },
+  {
+    "validation_index": 303,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3030
+      }
+    ]
+  },
+  {
+    "validation_index": 304,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3040
+      }
+    ]
+  },
+  {
+    "validation_index": 305,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3050
+      }
+    ]
+  },
+  {
+    "validation_index": 306,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3060
+      }
+    ]
+  },
+  {
+    "validation_index": 307,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3070
+      }
+    ]
+  },
+  {
+    "validation_index": 308,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3080
+      }
+    ]
+  },
+  {
+    "validation_index": 309,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3090
+      }
+    ]
+  },
+  {
+    "validation_index": 310,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3100
+      }
+    ]
+  },
+  {
+    "validation_index": 311,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3110
+      }
+    ]
+  },
+  {
+    "validation_index": 312,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3120
+      }
+    ]
+  },
+  {
+    "validation_index": 313,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3130
+      }
+    ]
+  },
+  {
+    "validation_index": 314,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3140
+      }
+    ]
+  },
+  {
+    "validation_index": 315,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3150
+      }
+    ]
+  },
+  {
+    "validation_index": 316,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3160
+      }
+    ]
+  },
+  {
+    "validation_index": 317,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3170
+      }
+    ]
+  },
+  {
+    "validation_index": 318,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3180
+      }
+    ]
+  },
+  {
+    "validation_index": 319,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3190
+      }
+    ]
+  },
+  {
+    "validation_index": 320,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3200
+      }
+    ]
+  },
+  {
+    "validation_index": 321,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3210
+      }
+    ]
+  },
+  {
+    "validation_index": 322,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3220
+      }
+    ]
+  },
+  {
+    "validation_index": 323,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3230
+      }
+    ]
+  },
+  {
+    "validation_index": 324,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3240
+      }
+    ]
+  },
+  {
+    "validation_index": 325,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3250
+      }
+    ]
+  },
+  {
+    "validation_index": 326,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3260
+      }
+    ]
+  },
+  {
+    "validation_index": 327,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3270
+      }
+    ]
+  },
+  {
+    "validation_index": 328,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3280
+      }
+    ]
+  },
+  {
+    "validation_index": 329,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3290
+      }
+    ]
+  },
+  {
+    "validation_index": 330,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3300
+      }
+    ]
+  },
+  {
+    "validation_index": 331,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3310
+      }
+    ]
+  },
+  {
+    "validation_index": 332,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3320
+      }
+    ]
+  },
+  {
+    "validation_index": 333,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3330
+      }
+    ]
+  },
+  {
+    "validation_index": 334,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3340
+      }
+    ]
+  },
+  {
+    "validation_index": 335,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3350
+      }
+    ]
+  },
+  {
+    "validation_index": 336,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3360
+      }
+    ]
+  },
+  {
+    "validation_index": 337,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3370
+      }
+    ]
+  },
+  {
+    "validation_index": 338,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3380
+      }
+    ]
+  },
+  {
+    "validation_index": 339,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3390
+      }
+    ]
+  },
+  {
+    "validation_index": 340,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3400
+      }
+    ]
+  },
+  {
+    "validation_index": 341,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3410
+      }
+    ]
+  },
+  {
+    "validation_index": 342,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3420
+      }
+    ]
+  },
+  {
+    "validation_index": 343,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3430
+      }
+    ]
+  },
+  {
+    "validation_index": 344,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3440
+      }
+    ]
+  },
+  {
+    "validation_index": 345,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3450
+      }
+    ]
+  },
+  {
+    "validation_index": 346,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3460
+      }
+    ]
+  },
+  {
+    "validation_index": 347,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3470
+      }
+    ]
+  },
+  {
+    "validation_index": 348,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3480
+      }
+    ]
+  },
+  {
+    "validation_index": 349,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3490
+      }
+    ]
+  },
+  {
+    "validation_index": 350,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3500
+      }
+    ]
+  },
+  {
+    "validation_index": 351,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3510
+      }
+    ]
+  },
+  {
+    "validation_index": 352,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3520
+      }
+    ]
+  },
+  {
+    "validation_index": 353,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3530
+      }
+    ]
+  },
+  {
+    "validation_index": 354,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3540
+      }
+    ]
+  },
+  {
+    "validation_index": 355,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3550
+      }
+    ]
+  },
+  {
+    "validation_index": 356,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3560
+      }
+    ]
+  },
+  {
+    "validation_index": 357,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3570
+      }
+    ]
+  },
+  {
+    "validation_index": 358,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3580
+      }
+    ]
+  },
+  {
+    "validation_index": 359,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3590
+      }
+    ]
+  },
+  {
+    "validation_index": 360,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3600
+      }
+    ]
+  },
+  {
+    "validation_index": 361,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3610
+      }
+    ]
+  },
+  {
+    "validation_index": 362,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3620
+      }
+    ]
+  },
+  {
+    "validation_index": 363,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3630
+      }
+    ]
+  },
+  {
+    "validation_index": 364,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3640
+      }
+    ]
+  },
+  {
+    "validation_index": 365,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3650
+      }
+    ]
+  },
+  {
+    "validation_index": 366,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3660
+      }
+    ]
+  },
+  {
+    "validation_index": 367,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3670
+      }
+    ]
+  },
+  {
+    "validation_index": 368,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3680
+      }
+    ]
+  },
+  {
+    "validation_index": 369,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3690
+      }
+    ]
+  },
+  {
+    "validation_index": 370,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3700
+      }
+    ]
+  },
+  {
+    "validation_index": 371,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3710
+      }
+    ]
+  },
+  {
+    "validation_index": 372,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3720
+      }
+    ]
+  },
+  {
+    "validation_index": 373,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3730
+      }
+    ]
+  },
+  {
+    "validation_index": 374,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3740
+      }
+    ]
+  },
+  {
+    "validation_index": 375,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3750
+      }
+    ]
+  },
+  {
+    "validation_index": 376,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3760
+      }
+    ]
+  },
+  {
+    "validation_index": 377,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3770
+      }
+    ]
+  },
+  {
+    "validation_index": 378,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3780
+      }
+    ]
+  },
+  {
+    "validation_index": 379,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3790
+      }
+    ]
+  },
+  {
+    "validation_index": 380,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3800
+      }
+    ]
+  },
+  {
+    "validation_index": 381,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3810
+      }
+    ]
+  },
+  {
+    "validation_index": 382,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3820
+      }
+    ]
+  },
+  {
+    "validation_index": 383,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3830
+      }
+    ]
+  },
+  {
+    "validation_index": 384,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3840
+      }
+    ]
+  },
+  {
+    "validation_index": 385,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3850
+      }
+    ]
+  },
+  {
+    "validation_index": 386,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3860
+      }
+    ]
+  },
+  {
+    "validation_index": 387,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3870
+      }
+    ]
+  },
+  {
+    "validation_index": 388,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3880
+      }
+    ]
+  },
+  {
+    "validation_index": 389,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3890
+      }
+    ]
+  },
+  {
+    "validation_index": 390,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3900
+      }
+    ]
+  },
+  {
+    "validation_index": 391,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3910
+      }
+    ]
+  },
+  {
+    "validation_index": 392,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3920
+      }
+    ]
+  },
+  {
+    "validation_index": 393,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3930
+      }
+    ]
+  },
+  {
+    "validation_index": 394,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3940
+      }
+    ]
+  },
+  {
+    "validation_index": 395,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3950
+      }
+    ]
+  },
+  {
+    "validation_index": 396,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3960
+      }
+    ]
+  },
+  {
+    "validation_index": 397,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3970
+      }
+    ]
+  },
+  {
+    "validation_index": 398,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3980
+      }
+    ]
+  },
+  {
+    "validation_index": 399,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3990
+      }
+    ]
+  },
+  {
+    "validation_index": 400,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 3999
+      },
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4000
+      }
+    ]
+  },
+  {
+    "validation_index": 401,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4010
+      }
+    ]
+  },
+  {
+    "validation_index": 402,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4020
+      }
+    ]
+  },
+  {
+    "validation_index": 403,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4030
+      }
+    ]
+  },
+  {
+    "validation_index": 404,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4040
+      }
+    ]
+  },
+  {
+    "validation_index": 405,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4050
+      }
+    ]
+  },
+  {
+    "validation_index": 406,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4060
+      }
+    ]
+  },
+  {
+    "validation_index": 407,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4070
+      }
+    ]
+  },
+  {
+    "validation_index": 408,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4080
+      }
+    ]
+  },
+  {
+    "validation_index": 409,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4090
+      }
+    ]
+  },
+  {
+    "validation_index": 410,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4100
+      }
+    ]
+  },
+  {
+    "validation_index": 411,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4110
+      }
+    ]
+  },
+  {
+    "validation_index": 412,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4120
+      }
+    ]
+  },
+  {
+    "validation_index": 413,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4130
+      }
+    ]
+  },
+  {
+    "validation_index": 414,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4140
+      }
+    ]
+  },
+  {
+    "validation_index": 415,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4150
+      }
+    ]
+  },
+  {
+    "validation_index": 416,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4160
+      }
+    ]
+  },
+  {
+    "validation_index": 417,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4170
+      }
+    ]
+  },
+  {
+    "validation_index": 418,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4180
+      }
+    ]
+  },
+  {
+    "validation_index": 419,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4190
+      }
+    ]
+  },
+  {
+    "validation_index": 420,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4200
+      }
+    ]
+  },
+  {
+    "validation_index": 421,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4210
+      }
+    ]
+  },
+  {
+    "validation_index": 422,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4220
+      }
+    ]
+  },
+  {
+    "validation_index": 423,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4230
+      }
+    ]
+  },
+  {
+    "validation_index": 424,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4240
+      }
+    ]
+  },
+  {
+    "validation_index": 425,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4250
+      }
+    ]
+  },
+  {
+    "validation_index": 426,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4260
+      }
+    ]
+  },
+  {
+    "validation_index": 427,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4270
+      }
+    ]
+  },
+  {
+    "validation_index": 428,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4280
+      }
+    ]
+  },
+  {
+    "validation_index": 429,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4290
+      }
+    ]
+  },
+  {
+    "validation_index": 430,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4300
+      }
+    ]
+  },
+  {
+    "validation_index": 431,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4310
+      }
+    ]
+  },
+  {
+    "validation_index": 432,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4320
+      }
+    ]
+  },
+  {
+    "validation_index": 433,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4330
+      }
+    ]
+  },
+  {
+    "validation_index": 434,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4340
+      }
+    ]
+  },
+  {
+    "validation_index": 435,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4350
+      }
+    ]
+  },
+  {
+    "validation_index": 436,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4360
+      }
+    ]
+  },
+  {
+    "validation_index": 437,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4370
+      }
+    ]
+  },
+  {
+    "validation_index": 438,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4380
+      }
+    ]
+  },
+  {
+    "validation_index": 439,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4390
+      }
+    ]
+  },
+  {
+    "validation_index": 440,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4400
+      }
+    ]
+  },
+  {
+    "validation_index": 441,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4410
+      }
+    ]
+  },
+  {
+    "validation_index": 442,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4420
+      }
+    ]
+  },
+  {
+    "validation_index": 443,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4430
+      }
+    ]
+  },
+  {
+    "validation_index": 444,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4440
+      }
+    ]
+  },
+  {
+    "validation_index": 445,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4450
+      }
+    ]
+  },
+  {
+    "validation_index": 446,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4460
+      }
+    ]
+  },
+  {
+    "validation_index": 447,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4470
+      }
+    ]
+  },
+  {
+    "validation_index": 448,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4480
+      }
+    ]
+  },
+  {
+    "validation_index": 449,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4490
+      }
+    ]
+  },
+  {
+    "validation_index": 450,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4500
+      }
+    ]
+  },
+  {
+    "validation_index": 451,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4510
+      }
+    ]
+  },
+  {
+    "validation_index": 452,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4520
+      }
+    ]
+  },
+  {
+    "validation_index": 453,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4530
+      }
+    ]
+  },
+  {
+    "validation_index": 454,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4540
+      }
+    ]
+  },
+  {
+    "validation_index": 455,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4550
+      }
+    ]
+  },
+  {
+    "validation_index": 456,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4560
+      }
+    ]
+  },
+  {
+    "validation_index": 457,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4570
+      }
+    ]
+  },
+  {
+    "validation_index": 458,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4580
+      }
+    ]
+  },
+  {
+    "validation_index": 459,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4590
+      }
+    ]
+  },
+  {
+    "validation_index": 460,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4600
+      }
+    ]
+  },
+  {
+    "validation_index": 461,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4610
+      }
+    ]
+  },
+  {
+    "validation_index": 462,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4620
+      }
+    ]
+  },
+  {
+    "validation_index": 463,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4630
+      }
+    ]
+  },
+  {
+    "validation_index": 464,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4640
+      }
+    ]
+  },
+  {
+    "validation_index": 465,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4650
+      }
+    ]
+  },
+  {
+    "validation_index": 466,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4660
+      }
+    ]
+  },
+  {
+    "validation_index": 467,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4670
+      }
+    ]
+  },
+  {
+    "validation_index": 468,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4680
+      }
+    ]
+  },
+  {
+    "validation_index": 469,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4690
+      }
+    ]
+  },
+  {
+    "validation_index": 470,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4700
+      }
+    ]
+  },
+  {
+    "validation_index": 471,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4710
+      }
+    ]
+  },
+  {
+    "validation_index": 472,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4720
+      }
+    ]
+  },
+  {
+    "validation_index": 473,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4730
+      }
+    ]
+  },
+  {
+    "validation_index": 474,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4740
+      }
+    ]
+  },
+  {
+    "validation_index": 475,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4750
+      }
+    ]
+  },
+  {
+    "validation_index": 476,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4760
+      }
+    ]
+  },
+  {
+    "validation_index": 477,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4770
+      }
+    ]
+  },
+  {
+    "validation_index": 478,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4780
+      }
+    ]
+  },
+  {
+    "validation_index": 479,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4790
+      }
+    ]
+  },
+  {
+    "validation_index": 480,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4800
+      }
+    ]
+  },
+  {
+    "validation_index": 481,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4810
+      }
+    ]
+  },
+  {
+    "validation_index": 482,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4820
+      }
+    ]
+  },
+  {
+    "validation_index": 483,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4830
+      }
+    ]
+  },
+  {
+    "validation_index": 484,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4840
+      }
+    ]
+  },
+  {
+    "validation_index": 485,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4850
+      }
+    ]
+  },
+  {
+    "validation_index": 486,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4860
+      }
+    ]
+  },
+  {
+    "validation_index": 487,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4870
+      }
+    ]
+  },
+  {
+    "validation_index": 488,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4880
+      }
+    ]
+  },
+  {
+    "validation_index": 489,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4890
+      }
+    ]
+  },
+  {
+    "validation_index": 490,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4900
+      }
+    ]
+  },
+  {
+    "validation_index": 491,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4910
+      }
+    ]
+  },
+  {
+    "validation_index": 492,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4920
+      }
+    ]
+  },
+  {
+    "validation_index": 493,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4930
+      }
+    ]
+  },
+  {
+    "validation_index": 494,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4940
+      }
+    ]
+  },
+  {
+    "validation_index": 495,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4950
+      }
+    ]
+  },
+  {
+    "validation_index": 496,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4960
+      }
+    ]
+  },
+  {
+    "validation_index": 497,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4970
+      }
+    ]
+  },
+  {
+    "validation_index": 498,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4980
+      }
+    ]
+  },
+  {
+    "validation_index": 499,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 4990
+      }
+    ]
+  },
+  {
+    "validation_index": 500,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5000
+      }
+    ]
+  },
+  {
+    "validation_index": 501,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5010
+      }
+    ]
+  },
+  {
+    "validation_index": 502,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5020
+      }
+    ]
+  },
+  {
+    "validation_index": 503,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5030
+      }
+    ]
+  },
+  {
+    "validation_index": 504,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5040
+      }
+    ]
+  },
+  {
+    "validation_index": 505,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5050
+      }
+    ]
+  },
+  {
+    "validation_index": 506,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5060
+      }
+    ]
+  },
+  {
+    "validation_index": 507,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5070
+      }
+    ]
+  },
+  {
+    "validation_index": 508,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5080
+      }
+    ]
+  },
+  {
+    "validation_index": 509,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5090
+      }
+    ]
+  },
+  {
+    "validation_index": 510,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5100
+      }
+    ]
+  },
+  {
+    "validation_index": 511,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5110
+      }
+    ]
+  },
+  {
+    "validation_index": 512,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5120
+      }
+    ]
+  },
+  {
+    "validation_index": 513,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5130
+      }
+    ]
+  },
+  {
+    "validation_index": 514,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5140
+      }
+    ]
+  },
+  {
+    "validation_index": 515,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5150
+      }
+    ]
+  },
+  {
+    "validation_index": 516,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5160
+      }
+    ]
+  },
+  {
+    "validation_index": 517,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5170
+      }
+    ]
+  },
+  {
+    "validation_index": 518,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5180
+      }
+    ]
+  },
+  {
+    "validation_index": 519,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5190
+      }
+    ]
+  },
+  {
+    "validation_index": 520,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5200
+      }
+    ]
+  },
+  {
+    "validation_index": 521,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5210
+      }
+    ]
+  },
+  {
+    "validation_index": 522,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5220
+      }
+    ]
+  },
+  {
+    "validation_index": 523,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5230
+      }
+    ]
+  },
+  {
+    "validation_index": 524,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5240
+      }
+    ]
+  },
+  {
+    "validation_index": 525,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5250
+      }
+    ]
+  },
+  {
+    "validation_index": 526,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5260
+      }
+    ]
+  },
+  {
+    "validation_index": 527,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5270
+      }
+    ]
+  },
+  {
+    "validation_index": 528,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5280
+      }
+    ]
+  },
+  {
+    "validation_index": 529,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5290
+      }
+    ]
+  },
+  {
+    "validation_index": 530,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5300
+      }
+    ]
+  },
+  {
+    "validation_index": 531,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5310
+      }
+    ]
+  },
+  {
+    "validation_index": 532,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5320
+      }
+    ]
+  },
+  {
+    "validation_index": 533,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5330
+      }
+    ]
+  },
+  {
+    "validation_index": 534,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5340
+      }
+    ]
+  },
+  {
+    "validation_index": 535,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5350
+      }
+    ]
+  },
+  {
+    "validation_index": 536,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5360
+      }
+    ]
+  },
+  {
+    "validation_index": 537,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5370
+      }
+    ]
+  },
+  {
+    "validation_index": 538,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5380
+      }
+    ]
+  },
+  {
+    "validation_index": 539,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5390
+      }
+    ]
+  },
+  {
+    "validation_index": 540,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5400
+      }
+    ]
+  },
+  {
+    "validation_index": 541,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5410
+      }
+    ]
+  },
+  {
+    "validation_index": 542,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5420
+      }
+    ]
+  },
+  {
+    "validation_index": 543,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5430
+      }
+    ]
+  },
+  {
+    "validation_index": 544,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5440
+      }
+    ]
+  },
+  {
+    "validation_index": 545,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5450
+      }
+    ]
+  },
+  {
+    "validation_index": 546,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5460
+      }
+    ]
+  },
+  {
+    "validation_index": 547,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5470
+      }
+    ]
+  },
+  {
+    "validation_index": 548,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5480
+      }
+    ]
+  },
+  {
+    "validation_index": 549,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5490
+      }
+    ]
+  },
+  {
+    "validation_index": 550,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5500
+      }
+    ]
+  },
+  {
+    "validation_index": 551,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5510
+      }
+    ]
+  },
+  {
+    "validation_index": 552,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5520
+      }
+    ]
+  },
+  {
+    "validation_index": 553,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5530
+      }
+    ]
+  },
+  {
+    "validation_index": 554,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5540
+      }
+    ]
+  },
+  {
+    "validation_index": 555,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5550
+      }
+    ]
+  },
+  {
+    "validation_index": 556,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5560
+      }
+    ]
+  },
+  {
+    "validation_index": 557,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5570
+      }
+    ]
+  },
+  {
+    "validation_index": 558,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5580
+      }
+    ]
+  },
+  {
+    "validation_index": 559,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5590
+      }
+    ]
+  },
+  {
+    "validation_index": 560,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5600
+      }
+    ]
+  },
+  {
+    "validation_index": 561,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5610
+      }
+    ]
+  },
+  {
+    "validation_index": 562,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5620
+      }
+    ]
+  },
+  {
+    "validation_index": 563,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5630
+      }
+    ]
+  },
+  {
+    "validation_index": 564,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5640
+      }
+    ]
+  },
+  {
+    "validation_index": 565,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5650
+      }
+    ]
+  },
+  {
+    "validation_index": 566,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5660
+      }
+    ]
+  },
+  {
+    "validation_index": 567,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5670
+      }
+    ]
+  },
+  {
+    "validation_index": 568,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5680
+      }
+    ]
+  },
+  {
+    "validation_index": 569,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5690
+      }
+    ]
+  },
+  {
+    "validation_index": 570,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5700
+      }
+    ]
+  },
+  {
+    "validation_index": 571,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5710
+      }
+    ]
+  },
+  {
+    "validation_index": 572,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5720
+      }
+    ]
+  },
+  {
+    "validation_index": 573,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5730
+      }
+    ]
+  },
+  {
+    "validation_index": 574,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5740
+      }
+    ]
+  },
+  {
+    "validation_index": 575,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5750
+      }
+    ]
+  },
+  {
+    "validation_index": 576,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5760
+      }
+    ]
+  },
+  {
+    "validation_index": 577,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5770
+      }
+    ]
+  },
+  {
+    "validation_index": 578,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5780
+      }
+    ]
+  },
+  {
+    "validation_index": 579,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5790
+      }
+    ]
+  },
+  {
+    "validation_index": 580,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5800
+      }
+    ]
+  },
+  {
+    "validation_index": 581,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5810
+      }
+    ]
+  },
+  {
+    "validation_index": 582,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5820
+      }
+    ]
+  },
+  {
+    "validation_index": 583,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5830
+      }
+    ]
+  },
+  {
+    "validation_index": 584,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5840
+      }
+    ]
+  },
+  {
+    "validation_index": 585,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5850
+      }
+    ]
+  },
+  {
+    "validation_index": 586,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5860
+      }
+    ]
+  },
+  {
+    "validation_index": 587,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5870
+      }
+    ]
+  },
+  {
+    "validation_index": 588,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5880
+      }
+    ]
+  },
+  {
+    "validation_index": 589,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5890
+      }
+    ]
+  },
+  {
+    "validation_index": 590,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5900
+      }
+    ]
+  },
+  {
+    "validation_index": 591,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5910
+      }
+    ]
+  },
+  {
+    "validation_index": 592,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5920
+      }
+    ]
+  },
+  {
+    "validation_index": 593,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5930
+      }
+    ]
+  },
+  {
+    "validation_index": 594,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5940
+      }
+    ]
+  },
+  {
+    "validation_index": 595,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5950
+      }
+    ]
+  },
+  {
+    "validation_index": 596,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5960
+      }
+    ]
+  },
+  {
+    "validation_index": 597,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5970
+      }
+    ]
+  },
+  {
+    "validation_index": 598,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5980
+      }
+    ]
+  },
+  {
+    "validation_index": 599,
+    "source_matches": [
+      {
+        "file": "Testing/LiPS_box1.traj",
+        "frame": 5990
+      }
+    ]
+  },
+  {
+    "validation_index": 600,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10000
+      }
+    ]
+  },
+  {
+    "validation_index": 601,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10010
+      }
+    ]
+  },
+  {
+    "validation_index": 602,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10020
+      }
+    ]
+  },
+  {
+    "validation_index": 603,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10030
+      }
+    ]
+  },
+  {
+    "validation_index": 604,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10040
+      }
+    ]
+  },
+  {
+    "validation_index": 605,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10050
+      }
+    ]
+  },
+  {
+    "validation_index": 606,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10060
+      }
+    ]
+  },
+  {
+    "validation_index": 607,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10070
+      }
+    ]
+  },
+  {
+    "validation_index": 608,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10080
+      }
+    ]
+  },
+  {
+    "validation_index": 609,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10090
+      }
+    ]
+  },
+  {
+    "validation_index": 610,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10100
+      }
+    ]
+  },
+  {
+    "validation_index": 611,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10110
+      }
+    ]
+  },
+  {
+    "validation_index": 612,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10120
+      }
+    ]
+  },
+  {
+    "validation_index": 613,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10130
+      }
+    ]
+  },
+  {
+    "validation_index": 614,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10140
+      }
+    ]
+  },
+  {
+    "validation_index": 615,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10150
+      }
+    ]
+  },
+  {
+    "validation_index": 616,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10160
+      }
+    ]
+  },
+  {
+    "validation_index": 617,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10170
+      }
+    ]
+  },
+  {
+    "validation_index": 618,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10180
+      }
+    ]
+  },
+  {
+    "validation_index": 619,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10190
+      }
+    ]
+  },
+  {
+    "validation_index": 620,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10200
+      }
+    ]
+  },
+  {
+    "validation_index": 621,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10210
+      }
+    ]
+  },
+  {
+    "validation_index": 622,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10220
+      }
+    ]
+  },
+  {
+    "validation_index": 623,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10230
+      }
+    ]
+  },
+  {
+    "validation_index": 624,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10240
+      }
+    ]
+  },
+  {
+    "validation_index": 625,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10250
+      }
+    ]
+  },
+  {
+    "validation_index": 626,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10260
+      }
+    ]
+  },
+  {
+    "validation_index": 627,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10270
+      }
+    ]
+  },
+  {
+    "validation_index": 628,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10280
+      }
+    ]
+  },
+  {
+    "validation_index": 629,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10290
+      }
+    ]
+  },
+  {
+    "validation_index": 630,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10300
+      }
+    ]
+  },
+  {
+    "validation_index": 631,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10310
+      }
+    ]
+  },
+  {
+    "validation_index": 632,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10320
+      }
+    ]
+  },
+  {
+    "validation_index": 633,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10330
+      }
+    ]
+  },
+  {
+    "validation_index": 634,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10340
+      }
+    ]
+  },
+  {
+    "validation_index": 635,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10350
+      }
+    ]
+  },
+  {
+    "validation_index": 636,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10360
+      }
+    ]
+  },
+  {
+    "validation_index": 637,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10370
+      }
+    ]
+  },
+  {
+    "validation_index": 638,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10380
+      }
+    ]
+  },
+  {
+    "validation_index": 639,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10390
+      }
+    ]
+  },
+  {
+    "validation_index": 640,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10400
+      }
+    ]
+  },
+  {
+    "validation_index": 641,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10410
+      }
+    ]
+  },
+  {
+    "validation_index": 642,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10420
+      }
+    ]
+  },
+  {
+    "validation_index": 643,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10430
+      }
+    ]
+  },
+  {
+    "validation_index": 644,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10440
+      }
+    ]
+  },
+  {
+    "validation_index": 645,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10450
+      }
+    ]
+  },
+  {
+    "validation_index": 646,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10460
+      }
+    ]
+  },
+  {
+    "validation_index": 647,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10470
+      }
+    ]
+  },
+  {
+    "validation_index": 648,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10480
+      }
+    ]
+  },
+  {
+    "validation_index": 649,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10490
+      }
+    ]
+  },
+  {
+    "validation_index": 650,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10500
+      }
+    ]
+  },
+  {
+    "validation_index": 651,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10510
+      }
+    ]
+  },
+  {
+    "validation_index": 652,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10520
+      }
+    ]
+  },
+  {
+    "validation_index": 653,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10530
+      }
+    ]
+  },
+  {
+    "validation_index": 654,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10540
+      }
+    ]
+  },
+  {
+    "validation_index": 655,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10550
+      }
+    ]
+  },
+  {
+    "validation_index": 656,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10560
+      }
+    ]
+  },
+  {
+    "validation_index": 657,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10570
+      }
+    ]
+  },
+  {
+    "validation_index": 658,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10580
+      }
+    ]
+  },
+  {
+    "validation_index": 659,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10590
+      }
+    ]
+  },
+  {
+    "validation_index": 660,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10600
+      }
+    ]
+  },
+  {
+    "validation_index": 661,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10610
+      }
+    ]
+  },
+  {
+    "validation_index": 662,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10620
+      }
+    ]
+  },
+  {
+    "validation_index": 663,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10630
+      }
+    ]
+  },
+  {
+    "validation_index": 664,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10640
+      }
+    ]
+  },
+  {
+    "validation_index": 665,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10650
+      }
+    ]
+  },
+  {
+    "validation_index": 666,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10660
+      }
+    ]
+  },
+  {
+    "validation_index": 667,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10670
+      }
+    ]
+  },
+  {
+    "validation_index": 668,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10680
+      }
+    ]
+  },
+  {
+    "validation_index": 669,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10690
+      }
+    ]
+  },
+  {
+    "validation_index": 670,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10700
+      }
+    ]
+  },
+  {
+    "validation_index": 671,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10710
+      }
+    ]
+  },
+  {
+    "validation_index": 672,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10720
+      }
+    ]
+  },
+  {
+    "validation_index": 673,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10730
+      }
+    ]
+  },
+  {
+    "validation_index": 674,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10740
+      }
+    ]
+  },
+  {
+    "validation_index": 675,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10750
+      }
+    ]
+  },
+  {
+    "validation_index": 676,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10760
+      }
+    ]
+  },
+  {
+    "validation_index": 677,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10770
+      }
+    ]
+  },
+  {
+    "validation_index": 678,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10780
+      }
+    ]
+  },
+  {
+    "validation_index": 679,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10790
+      }
+    ]
+  },
+  {
+    "validation_index": 680,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10800
+      }
+    ]
+  },
+  {
+    "validation_index": 681,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10810
+      }
+    ]
+  },
+  {
+    "validation_index": 682,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10820
+      }
+    ]
+  },
+  {
+    "validation_index": 683,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10830
+      }
+    ]
+  },
+  {
+    "validation_index": 684,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10840
+      }
+    ]
+  },
+  {
+    "validation_index": 685,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10850
+      }
+    ]
+  },
+  {
+    "validation_index": 686,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10860
+      }
+    ]
+  },
+  {
+    "validation_index": 687,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10870
+      }
+    ]
+  },
+  {
+    "validation_index": 688,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10880
+      }
+    ]
+  },
+  {
+    "validation_index": 689,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10890
+      }
+    ]
+  },
+  {
+    "validation_index": 690,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10900
+      }
+    ]
+  },
+  {
+    "validation_index": 691,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10910
+      }
+    ]
+  },
+  {
+    "validation_index": 692,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10920
+      }
+    ]
+  },
+  {
+    "validation_index": 693,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10930
+      }
+    ]
+  },
+  {
+    "validation_index": 694,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10940
+      }
+    ]
+  },
+  {
+    "validation_index": 695,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10950
+      }
+    ]
+  },
+  {
+    "validation_index": 696,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10960
+      }
+    ]
+  },
+  {
+    "validation_index": 697,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10970
+      }
+    ]
+  },
+  {
+    "validation_index": 698,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10980
+      }
+    ]
+  },
+  {
+    "validation_index": 699,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 10990
+      }
+    ]
+  },
+  {
+    "validation_index": 700,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11000
+      }
+    ]
+  },
+  {
+    "validation_index": 701,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11010
+      }
+    ]
+  },
+  {
+    "validation_index": 702,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11020
+      }
+    ]
+  },
+  {
+    "validation_index": 703,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11030
+      }
+    ]
+  },
+  {
+    "validation_index": 704,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11040
+      }
+    ]
+  },
+  {
+    "validation_index": 705,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11050
+      }
+    ]
+  },
+  {
+    "validation_index": 706,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11060
+      }
+    ]
+  },
+  {
+    "validation_index": 707,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11070
+      }
+    ]
+  },
+  {
+    "validation_index": 708,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11080
+      }
+    ]
+  },
+  {
+    "validation_index": 709,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11090
+      }
+    ]
+  },
+  {
+    "validation_index": 710,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11100
+      }
+    ]
+  },
+  {
+    "validation_index": 711,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11110
+      }
+    ]
+  },
+  {
+    "validation_index": 712,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11120
+      }
+    ]
+  },
+  {
+    "validation_index": 713,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11130
+      }
+    ]
+  },
+  {
+    "validation_index": 714,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11140
+      }
+    ]
+  },
+  {
+    "validation_index": 715,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11150
+      }
+    ]
+  },
+  {
+    "validation_index": 716,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11160
+      }
+    ]
+  },
+  {
+    "validation_index": 717,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11170
+      }
+    ]
+  },
+  {
+    "validation_index": 718,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11180
+      }
+    ]
+  },
+  {
+    "validation_index": 719,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11190
+      }
+    ]
+  },
+  {
+    "validation_index": 720,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11200
+      }
+    ]
+  },
+  {
+    "validation_index": 721,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11210
+      }
+    ]
+  },
+  {
+    "validation_index": 722,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11220
+      }
+    ]
+  },
+  {
+    "validation_index": 723,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11230
+      }
+    ]
+  },
+  {
+    "validation_index": 724,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11240
+      }
+    ]
+  },
+  {
+    "validation_index": 725,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11250
+      }
+    ]
+  },
+  {
+    "validation_index": 726,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11260
+      }
+    ]
+  },
+  {
+    "validation_index": 727,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11270
+      }
+    ]
+  },
+  {
+    "validation_index": 728,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11280
+      }
+    ]
+  },
+  {
+    "validation_index": 729,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11290
+      }
+    ]
+  },
+  {
+    "validation_index": 730,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11300
+      }
+    ]
+  },
+  {
+    "validation_index": 731,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11310
+      }
+    ]
+  },
+  {
+    "validation_index": 732,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11320
+      }
+    ]
+  },
+  {
+    "validation_index": 733,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11330
+      }
+    ]
+  },
+  {
+    "validation_index": 734,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11340
+      }
+    ]
+  },
+  {
+    "validation_index": 735,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11350
+      }
+    ]
+  },
+  {
+    "validation_index": 736,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11360
+      }
+    ]
+  },
+  {
+    "validation_index": 737,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11370
+      }
+    ]
+  },
+  {
+    "validation_index": 738,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11380
+      }
+    ]
+  },
+  {
+    "validation_index": 739,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11390
+      }
+    ]
+  },
+  {
+    "validation_index": 740,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11400
+      }
+    ]
+  },
+  {
+    "validation_index": 741,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11410
+      }
+    ]
+  },
+  {
+    "validation_index": 742,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11420
+      }
+    ]
+  },
+  {
+    "validation_index": 743,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11430
+      }
+    ]
+  },
+  {
+    "validation_index": 744,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11440
+      }
+    ]
+  },
+  {
+    "validation_index": 745,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11450
+      }
+    ]
+  },
+  {
+    "validation_index": 746,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11460
+      }
+    ]
+  },
+  {
+    "validation_index": 747,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11470
+      }
+    ]
+  },
+  {
+    "validation_index": 748,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11480
+      }
+    ]
+  },
+  {
+    "validation_index": 749,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11490
+      }
+    ]
+  },
+  {
+    "validation_index": 750,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11500
+      }
+    ]
+  },
+  {
+    "validation_index": 751,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11510
+      }
+    ]
+  },
+  {
+    "validation_index": 752,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11520
+      }
+    ]
+  },
+  {
+    "validation_index": 753,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11530
+      }
+    ]
+  },
+  {
+    "validation_index": 754,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11540
+      }
+    ]
+  },
+  {
+    "validation_index": 755,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11550
+      }
+    ]
+  },
+  {
+    "validation_index": 756,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11560
+      }
+    ]
+  },
+  {
+    "validation_index": 757,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11570
+      }
+    ]
+  },
+  {
+    "validation_index": 758,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11580
+      }
+    ]
+  },
+  {
+    "validation_index": 759,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11590
+      }
+    ]
+  },
+  {
+    "validation_index": 760,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11600
+      }
+    ]
+  },
+  {
+    "validation_index": 761,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11610
+      }
+    ]
+  },
+  {
+    "validation_index": 762,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11620
+      }
+    ]
+  },
+  {
+    "validation_index": 763,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11630
+      }
+    ]
+  },
+  {
+    "validation_index": 764,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11640
+      }
+    ]
+  },
+  {
+    "validation_index": 765,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11650
+      }
+    ]
+  },
+  {
+    "validation_index": 766,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11660
+      }
+    ]
+  },
+  {
+    "validation_index": 767,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11670
+      }
+    ]
+  },
+  {
+    "validation_index": 768,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11680
+      }
+    ]
+  },
+  {
+    "validation_index": 769,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11690
+      }
+    ]
+  },
+  {
+    "validation_index": 770,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11700
+      }
+    ]
+  },
+  {
+    "validation_index": 771,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11710
+      }
+    ]
+  },
+  {
+    "validation_index": 772,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11720
+      }
+    ]
+  },
+  {
+    "validation_index": 773,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11730
+      }
+    ]
+  },
+  {
+    "validation_index": 774,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11740
+      }
+    ]
+  },
+  {
+    "validation_index": 775,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11750
+      }
+    ]
+  },
+  {
+    "validation_index": 776,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11760
+      }
+    ]
+  },
+  {
+    "validation_index": 777,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11770
+      }
+    ]
+  },
+  {
+    "validation_index": 778,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11780
+      }
+    ]
+  },
+  {
+    "validation_index": 779,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11790
+      }
+    ]
+  },
+  {
+    "validation_index": 780,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11800
+      }
+    ]
+  },
+  {
+    "validation_index": 781,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11810
+      }
+    ]
+  },
+  {
+    "validation_index": 782,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11820
+      }
+    ]
+  },
+  {
+    "validation_index": 783,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11830
+      }
+    ]
+  },
+  {
+    "validation_index": 784,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11840
+      }
+    ]
+  },
+  {
+    "validation_index": 785,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11850
+      }
+    ]
+  },
+  {
+    "validation_index": 786,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11860
+      }
+    ]
+  },
+  {
+    "validation_index": 787,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11870
+      }
+    ]
+  },
+  {
+    "validation_index": 788,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11880
+      }
+    ]
+  },
+  {
+    "validation_index": 789,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11890
+      }
+    ]
+  },
+  {
+    "validation_index": 790,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11900
+      }
+    ]
+  },
+  {
+    "validation_index": 791,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11910
+      }
+    ]
+  },
+  {
+    "validation_index": 792,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11920
+      }
+    ]
+  },
+  {
+    "validation_index": 793,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11930
+      }
+    ]
+  },
+  {
+    "validation_index": 794,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11940
+      }
+    ]
+  },
+  {
+    "validation_index": 795,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11950
+      }
+    ]
+  },
+  {
+    "validation_index": 796,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11960
+      }
+    ]
+  },
+  {
+    "validation_index": 797,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11970
+      }
+    ]
+  },
+  {
+    "validation_index": 798,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11980
+      }
+    ]
+  },
+  {
+    "validation_index": 799,
+    "source_matches": [
+      {
+        "file": "Testing/nonLiPS_box1.traj",
+        "frame": 11990
+      }
+    ]
+  }
+]

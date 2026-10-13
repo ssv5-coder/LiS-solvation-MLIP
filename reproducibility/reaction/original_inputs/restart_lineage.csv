@@ -1,0 +1,9 @@
+segment,source,first_written_step,last_written_step,frames_written,min_cell_A,max_cell_A
+initial_npt_50_to_300K,/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/PS/xyz.lammpstrj,0,100000,10001,31.94869690555234,34.384895596221234
+heat_original_before_restart_200000,/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/PS/HU_300-350K_1fs/prev_job/heat_300to400.lammpstrj,100010,200000,10000,32.62080176346631,32.99202721287352
+heat_restarted_from_200000,/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/PS/HU_300-350K_1fs/heat_300to400.lammpstrj,200010,300000,10000,32.822563153328204,33.301302898085176
+hold_original_before_restart,/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/PS/Main_350-350K_1fs/prev/main_350.lammpstrj,300010,320000,2000,33.035135474665324,33.35102880407983
+hold_restarted_from_320000,/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/PS/Main_350-350K_1fs/prev_2/main_350.lammpstrj,320010,390000,7000,33.020346380613766,33.43515011954917
+hold_restarted_from_390000,/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/PS/Main_350-350K_1fs/main_350.lammpstrj,390010,400000,1000,33.10194264075136,33.36554487905508
+cool_original_before_restart,/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/PS/CD_350-300K_1fs/prev/heat_350to300.lammpstrj,400010,450000,5000,32.915045729011155,33.429914362452536
+cool_restarted_from_450000,/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/PS/CD_350-300K_1fs/heat_350to300.lammpstrj,450010,600000,15000,32.72255586760224,33.277416726797355

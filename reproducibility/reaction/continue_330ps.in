@@ -1,0 +1,24 @@
+# Run from this directory, supplying absolute paths with -var.
+# lmp -var model /path/to/models/fine_tuned_m3gnet_model +#     -var driver /path/to/advancesoft-lammps/src/ML-GNNP +#     -in continue_330ps.in
+units metal
+boundary p p p
+atom_style atomic
+read_restart snapshots/ps_330ps.restart
+pair_style gnnp ${driver}
+pair_coeff * * matgl ${model} C F H Li N O S
+compute myTemp all temp
+compute pTot all pressure myTemp
+timestep 0.001
+# Recreate the original heating fix IDs and absolute ramp interval.
+fix 1 all langevin 325.0 350.0 1.0 12345
+fix 2 all nph iso 1.01325 1.01325 5.0
+fix_modify 2 temp myTemp press pTot
+thermo 100
+thermo_style custom step time temp pe ke etotal press vol density
+dump handoff all custom 100 continuation.lammpstrj id type x y z vx vy vz
+dump_modify handoff sort id
+restart 10000 continuation.restart
+# No velocity create: use the saved velocities.
+# Langevin random-number state is not restored; exact replay is not expected.
+run 30000 start 200000 stop 300000
+write_restart continuation.final.restart
