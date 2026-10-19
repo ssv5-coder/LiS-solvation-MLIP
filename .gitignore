@@ -6,3 +6,6 @@ optimization.traj
 optimized.extxyz
 data/production_trajectories/*.traj
 data/production_trajectories/SHA256SUMS
+revision_2026/*.out
+revision_2026/*.err
+revision_2026/.pytest_cache/

@@ -1,0 +1,50 @@
+{
+  "missing": [
+    {
+      "state": "afm",
+      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/afm/pilot",
+      "reason": "electronic convergence/final timing absent"
+    },
+    {
+      "state": "afm",
+      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/afm/retry01",
+      "reason": "electronic convergence/final timing absent"
+    },
+    {
+      "state": "afm",
+      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/afm/retry02",
+      "reason": "electronic convergence/final timing absent"
+    },
+    {
+      "state": "fm",
+      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/fm/pilot",
+      "reason": "no output"
+    },
+    {
+      "state": "fm",
+      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/fm/retry01",
+      "reason": "no output"
+    },
+    {
+      "state": "fm",
+      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/fm/retry02",
+      "reason": "no output"
+    },
+    {
+      "state": "nonmagnetic",
+      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/nonmagnetic/pilot",
+      "reason": "no output"
+    },
+    {
+      "state": "nonmagnetic",
+      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/nonmagnetic/retry01",
+      "reason": "no output"
+    },
+    {
+      "state": "nonmagnetic",
+      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/nonmagnetic/retry02",
+      "reason": "no output"
+    }
+  ],
+  "limitation": "PAW sphere projections omit interstitial spin. Inspect converged CHGCAR spin density and compare only same-functional energies; this does not validate an MLIP reaction barrier."
+}

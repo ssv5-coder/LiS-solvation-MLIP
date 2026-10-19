@@ -1,0 +1,2 @@
+# PDB records deliberately retain fixed-width trailing columns.
+results/replicas/*/packed.pdb -whitespace

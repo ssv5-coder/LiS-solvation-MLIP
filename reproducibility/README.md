@@ -1,5 +1,8 @@
 # Reviewer reproducibility release
 
+The October 2026 execution code, completed audits, limitations and compact
+results are indexed in [revision_2026](../revision_2026/README.md).
+
 ## For Filippo
 
 1. See [reaction/README.md](reaction/README.md) for full periodic pre-cleavage

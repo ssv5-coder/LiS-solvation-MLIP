@@ -1,0 +1,7 @@
+{
+  "returncode": 1,
+  "wall_seconds": 38.10145115852356,
+  "ediff_reached_count": 0,
+  "final_timing_present": false,
+  "note": "A completed timing pilot is not proof of SCF convergence or density equilibration"
+}

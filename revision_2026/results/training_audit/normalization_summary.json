@@ -1,0 +1,17 @@
+{
+  "results": [
+    {
+      "subset": "train",
+      "nframes": 40,
+      "standard_energy_mae_meV_atom": 5414.191693330061,
+      "double_normalized_energy_mae": 8.94947655956307
+    },
+    {
+      "subset": "test",
+      "nframes": 40,
+      "standard_energy_mae_meV_atom": 5397.42332669137,
+      "double_normalized_energy_mae": 9.3099759636416
+    }
+  ],
+  "caveat": "Diagnostic sample, not the reported full benchmark. Agreement with one convention does not recover missing graph caches. No production-model change."
+}

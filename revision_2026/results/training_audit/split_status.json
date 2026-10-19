@@ -1,0 +1,23 @@
+{
+  "historical_validation_frames": 800,
+  "historical_matching_trajectories": {
+    "Testing/LiPS_box1.traj": 600,
+    "Testing/nonLiPS_box1.traj": 200
+  },
+  "transferability_counts": {
+    "T01": 100,
+    "T02": 100,
+    "T03": 100,
+    "T04": 100
+  },
+  "transferability_unique_ordered_geometries": 400,
+  "all_excluded_from_final_stage_by_atom_count": true,
+  "mapping": {
+    "T01_nonPS_baseline": "T01",
+    "T02_PS_baseline": "T02",
+    "T04_DME_rich_PS": "T03",
+    "T05_Li2S4_speciation": "T04"
+  },
+  "benchmark_csv_sha256": "0461ab06db9530f10a1bd0356bca2b3371bcedf0107466dfa0e9e76a2612435e",
+  "limitation": "The old Testing trajectories are not independent of training-time validation. New transferability cells cannot be identical to final-stage 146/154-atom geometries; earlier adaptation caches are not fully reconstructed. This audit does not repair energy normalization or validate the new-system metrics."
+}

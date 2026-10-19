@@ -1,0 +1,44 @@
+{
+  "records": [
+    {
+      "snapshot_ps": 100,
+      "threads": 1,
+      "median_seconds": 1.5080997350160033,
+      "mean_seconds": 1.5193143154028803,
+      "predicted_1400000_step_days": 24.61851899958371,
+      "final_energy_eV": -63.607421875
+    },
+    {
+      "snapshot_ps": 340,
+      "threads": 1,
+      "median_seconds": 1.2919699830235913,
+      "mean_seconds": 1.2962317955913023,
+      "predicted_1400000_step_days": 21.003755947081288,
+      "final_energy_eV": 14.009765625
+    },
+    {
+      "snapshot_ps": 100,
+      "threads": 4,
+      "median_seconds": 1.504706191481091,
+      "mean_seconds": 1.511972455928723,
+      "predicted_1400000_step_days": 24.499553684030236,
+      "final_energy_eV": -63.607421875
+    },
+    {
+      "snapshot_ps": 340,
+      "threads": 4,
+      "median_seconds": 1.286690811975859,
+      "mean_seconds": 1.2887447573555013,
+      "predicted_1400000_step_days": 20.882438197890067,
+      "final_energy_eV": 14.009765625
+    }
+  ],
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "torch": "2.2.0+cu121",
+  "matgl": "1.2.3",
+  "dgl": "2.1.0+cu118",
+  "cuda": "12.1",
+  "model": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/models/fine_tuned_m3gnet_model",
+  "driver": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/advancesoft-lammps/src/ML-GNNP/gnnp_driver.py",
+  "scope": "Archived Python inference driver; excludes LAMMPS integration and I/O"
+}

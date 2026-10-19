@@ -1,0 +1,25 @@
+tolerance 2.0
+filetype pdb
+output packed.pdb
+randominitialpoint
+seed 190003
+structure DOL.pdb
+  number 143
+  inside box 0. 0. 0. 31.4193985 31.4193985 31.4193985
+end structure
+structure DME.pdb
+  number 96
+  inside box 0. 0. 0. 31.4193985 31.4193985 31.4193985
+end structure
+structure TFSI-.pdb
+  number 20
+  inside box 0. 0. 0. 31.4193985 31.4193985 31.4193985
+end structure
+structure Li+.pdb
+  number 20
+  inside box 0. 0. 0. 31.4193985 31.4193985 31.4193985
+end structure
+structure Li2S6.pdb
+  number 2
+  inside box 0. 0. 0. 31.4193985 31.4193985 31.4193985
+end structure

@@ -1,0 +1,118 @@
+{
+  "timestamp_utc": "2026-10-19T21:17:37.747027+00:00",
+  "pilots": [
+    {
+      "returncode": 1,
+      "wall_seconds": 38.10145115852356,
+      "ediff_reached_count": 0,
+      "final_timing_present": false,
+      "note": "A completed timing pilot is not proof of SCF convergence or density equilibration",
+      "folder": "hse/afm/pilot"
+    },
+    {
+      "returncode": 9,
+      "wall_seconds": 289.37065863609314,
+      "ediff_reached_count": 0,
+      "final_timing_present": false,
+      "note": "A completed timing pilot is not proof of SCF convergence or density equilibration",
+      "folder": "hse/afm/retry01"
+    },
+    {
+      "returncode": 15,
+      "wall_seconds": 411.83269810676575,
+      "ediff_reached_count": 0,
+      "final_timing_present": false,
+      "note": "A completed timing pilot is not proof of SCF convergence or density equilibration",
+      "folder": "hse/afm/retry02"
+    },
+    {
+      "returncode": 1,
+      "wall_seconds": 32.73792386054993,
+      "ediff_reached_count": 0,
+      "final_timing_present": false,
+      "note": "A completed timing pilot is not proof of SCF convergence or density equilibration",
+      "folder": "density/PS/pilot"
+    },
+    {
+      "returncode": 1,
+      "wall_seconds": 32.02985906600952,
+      "ediff_reached_count": 0,
+      "final_timing_present": false,
+      "note": "A completed timing pilot is not proof of SCF convergence or density equilibration",
+      "folder": "density/PS/retry01"
+    },
+    {
+      "returncode": 0,
+      "wall_seconds": 543.6915621757507,
+      "ediff_reached_count": 20,
+      "final_timing_present": true,
+      "note": "A completed timing pilot is not proof of SCF convergence or density equilibration",
+      "folder": "density/PS/retry02"
+    },
+    {
+      "returncode": 1,
+      "wall_seconds": 32.64516806602478,
+      "ediff_reached_count": 0,
+      "final_timing_present": false,
+      "note": "A completed timing pilot is not proof of SCF convergence or density equilibration",
+      "folder": "density/nonPS/pilot"
+    },
+    {
+      "returncode": 1,
+      "wall_seconds": 31.923234939575195,
+      "ediff_reached_count": 0,
+      "final_timing_present": false,
+      "note": "A completed timing pilot is not proof of SCF convergence or density equilibration",
+      "folder": "density/nonPS/retry01"
+    },
+    {
+      "returncode": 0,
+      "wall_seconds": 292.42951703071594,
+      "ediff_reached_count": 20,
+      "final_timing_present": true,
+      "note": "A completed timing pilot is not proof of SCF convergence or density equilibration",
+      "folder": "density/nonPS/retry02"
+    }
+  ],
+  "replicas": [
+    {
+      "replica": "R01",
+      "latest_checkpoint": 0,
+      "complete": false,
+      "failed_attempts": []
+    },
+    {
+      "replica": "R02",
+      "latest_checkpoint": 0,
+      "complete": false,
+      "failed_attempts": []
+    },
+    {
+      "replica": "R03",
+      "latest_checkpoint": 0,
+      "complete": false,
+      "failed_attempts": []
+    },
+    {
+      "replica": "R04",
+      "latest_checkpoint": 0,
+      "complete": false,
+      "failed_attempts": []
+    }
+  ],
+  "squeue": [
+    "41332832|jpc_PS_R03|PENDING|0:00|(Priority)",
+    "41332835|jpc_PS_R04|PENDING|0:00|(Priority)",
+    "41334530|jpc_gpu_pilot|PENDING|0:00|(Priority)",
+    "41332829|jpc_PS_R02|PENDING|0:00|(Priority)",
+    "41332827|jpc_PS_R01|PENDING|0:00|(Priority)",
+    "41335771|jpc_replica_results|PENDING|0:00|(Dependency)",
+    "41335768|jpc_spin_results|PENDING|0:00|(Dependency)",
+    "41335764|jpc_density_results|PENDING|0:00|(Dependency)",
+    "41335426|jpc_hse_memory|RUNNING|8:23|sdfrome078",
+    "41333764|jpc_DFT_density_PS|RUNNING|27:02|sdfrome024",
+    "41333766|jpc_DFT_density_nonPS|RUNNING|27:02|sdfrome090"
+  ],
+  "squeue_error": null,
+  "interpretation": "Job completion is not scientific validation. Pilots are not equilibrium densities; static snapshot energies are not free energies. Filippo's FES and within-state analysis remain external work."
+}

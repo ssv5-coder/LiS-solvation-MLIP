@@ -1,0 +1,7 @@
+{
+  "driver": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/revision_2026/optimized_driver",
+  "tests": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/gpu_optimization/41334428/results.json",
+  "speedup": 4.93358629425196,
+  "model_unchanged": true,
+  "experimental_inference_adapter": true
+}

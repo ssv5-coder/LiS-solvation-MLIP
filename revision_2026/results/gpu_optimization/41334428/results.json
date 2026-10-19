@@ -1,0 +1,115 @@
+{
+  "timings": [
+    {
+      "variant": "original",
+      "median_seconds": 1.3396497855428606,
+      "discrepancies": [
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/reproducibility/reaction/snapshots/ps_100ps.extxyz",
+          "energy_difference_eV_atom": 5.669448476052249e-07,
+          "max_force_difference_eV_A": 4.798173904418945e-06,
+          "max_stress_difference_eV_A3": 4.353933036327362e-08
+        },
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/reproducibility/reaction/snapshots/ps_260ps.extxyz",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 5.0961971282958984e-06,
+          "max_stress_difference_eV_A3": 2.1922460291534662e-08
+        },
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/reproducibility/reaction/snapshots/ps_330ps.extxyz",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 6.198883056640625e-06,
+          "max_stress_difference_eV_A3": 3.841705620288849e-08
+        },
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/reproducibility/reaction/snapshots/ps_340ps.extxyz",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 5.245208740234375e-06,
+          "max_stress_difference_eV_A3": 7.066410034894943e-08
+        },
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/PS/dissolution_mechanism/dft_fixed_environment_path/images/20_step300000/POSCAR",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 2.9802322387695312e-06,
+          "max_stress_difference_eV_A3": 1.0477378964424133e-09
+        }
+      ]
+    },
+    {
+      "variant": "vectorized_triplets",
+      "median_seconds": 0.5823359530186281,
+      "discrepancies": [
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/reproducibility/reaction/snapshots/ps_100ps.extxyz",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 5.0067901611328125e-06,
+          "max_stress_difference_eV_A3": 1.792795956134796e-08
+        },
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/reproducibility/reaction/snapshots/ps_260ps.extxyz",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 7.867813110351562e-06,
+          "max_stress_difference_eV_A3": 5.178299034014344e-08
+        },
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/reproducibility/reaction/snapshots/ps_330ps.extxyz",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 5.4836273193359375e-06,
+          "max_stress_difference_eV_A3": 5.2386894822120667e-08
+        },
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/reproducibility/reaction/snapshots/ps_340ps.extxyz",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 6.079673767089844e-06,
+          "max_stress_difference_eV_A3": 3.050081431865692e-08
+        },
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/PS/dissolution_mechanism/dft_fixed_environment_path/images/20_step300000/POSCAR",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 2.6226043701171875e-06,
+          "max_stress_difference_eV_A3": 1.4551915228366852e-09
+        }
+      ]
+    },
+    {
+      "variant": "vectorized_and_first_derivatives",
+      "median_seconds": 0.2715367089258507,
+      "discrepancies": [
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/reproducibility/reaction/snapshots/ps_100ps.extxyz",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 6.198883056640625e-06,
+          "max_stress_difference_eV_A3": 4.6798959374427795e-08
+        },
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/reproducibility/reaction/snapshots/ps_260ps.extxyz",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 5.751848220825195e-06,
+          "max_stress_difference_eV_A3": 3.271270543336868e-08
+        },
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/reproducibility/reaction/snapshots/ps_330ps.extxyz",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 5.900859832763672e-06,
+          "max_stress_difference_eV_A3": 3.003515303134918e-08
+        },
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/github/reproducibility/reaction/snapshots/ps_340ps.extxyz",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 6.4373016357421875e-06,
+          "max_stress_difference_eV_A3": 5.960464477539063e-08
+        },
+        {
+          "path": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/PS/dissolution_mechanism/dft_fixed_environment_path/images/20_step300000/POSCAR",
+          "energy_difference_eV_atom": 0.0,
+          "max_force_difference_eV_A": 2.6226043701171875e-06,
+          "max_stress_difference_eV_A3": 1.1932570487260818e-09
+        }
+      ]
+    }
+  ],
+  "speedup": 4.93358629425196,
+  "short_trajectory_max_position_difference_A": 8.573646290699344e-07,
+  "gpu": "NVIDIA A100-SXM4-40GB"
+}

@@ -1,0 +1,6 @@
+{
+  "ninputs": 88,
+  "constant_300K_NPT_candidates": 0,
+  "interpretation": "NVT volumes and endpoints of temperature ramps are not equilibrated DFT density predictions.",
+  "mass_note": "Original ML-MD annealing used H=3.016049; original final 300K NPT changes H to 1.00783. AIMD POMASS H=2.0. Matched controls use all seven AIMD masses."
+}

@@ -1,0 +1,414 @@
+{
+  "source": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/train.traj",
+  "frames": 120000,
+  "complete": true,
+  "natoms_counts": {
+    "146": 60000,
+    "154": 60000
+  },
+  "blocks": [
+    {
+      "block": 0,
+      "inferred_archive_name": "nonLiPS_box1",
+      "natoms": 146,
+      "sulfur_indices": [
+        144,
+        145
+      ],
+      "membership": {
+        "144": "TFSI",
+        "145": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 1,
+      "inferred_archive_name": "LiPS_box1",
+      "natoms": 154,
+      "sulfur_indices": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "membership": {
+        "146": "TFSI",
+        "147": "PS",
+        "148": "PS",
+        "149": "PS",
+        "150": "PS",
+        "151": "PS",
+        "152": "PS",
+        "153": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 2,
+      "inferred_archive_name": "nonLiPS_box2",
+      "natoms": 146,
+      "sulfur_indices": [
+        144,
+        145
+      ],
+      "membership": {
+        "144": "TFSI",
+        "145": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 3,
+      "inferred_archive_name": "LiPS_box2",
+      "natoms": 154,
+      "sulfur_indices": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "membership": {
+        "146": "TFSI",
+        "147": "PS",
+        "148": "PS",
+        "149": "PS",
+        "150": "PS",
+        "151": "PS",
+        "152": "PS",
+        "153": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 4,
+      "inferred_archive_name": "nonLiPS_box3",
+      "natoms": 146,
+      "sulfur_indices": [
+        144,
+        145
+      ],
+      "membership": {
+        "144": "TFSI",
+        "145": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 5,
+      "inferred_archive_name": "LiPS_box3",
+      "natoms": 154,
+      "sulfur_indices": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "membership": {
+        "146": "TFSI",
+        "147": "PS",
+        "148": "PS",
+        "149": "PS",
+        "150": "PS",
+        "151": "PS",
+        "152": "PS",
+        "153": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 6,
+      "inferred_archive_name": "nonLiPS_box4",
+      "natoms": 146,
+      "sulfur_indices": [
+        144,
+        145
+      ],
+      "membership": {
+        "144": "TFSI",
+        "145": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 7,
+      "inferred_archive_name": "LiPS_box4",
+      "natoms": 154,
+      "sulfur_indices": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "membership": {
+        "146": "TFSI",
+        "147": "PS",
+        "148": "PS",
+        "149": "PS",
+        "150": "PS",
+        "151": "PS",
+        "152": "PS",
+        "153": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 8,
+      "inferred_archive_name": "nonLiPS_box5",
+      "natoms": 146,
+      "sulfur_indices": [
+        144,
+        145
+      ],
+      "membership": {
+        "144": "TFSI",
+        "145": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 9,
+      "inferred_archive_name": "LiPS_box5",
+      "natoms": 154,
+      "sulfur_indices": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "membership": {
+        "146": "TFSI",
+        "147": "PS",
+        "148": "PS",
+        "149": "PS",
+        "150": "PS",
+        "151": "PS",
+        "152": "PS",
+        "153": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 10,
+      "inferred_archive_name": "nonLiPS_box6",
+      "natoms": 146,
+      "sulfur_indices": [
+        144,
+        145
+      ],
+      "membership": {
+        "144": "TFSI",
+        "145": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 11,
+      "inferred_archive_name": "LiPS_box6",
+      "natoms": 154,
+      "sulfur_indices": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "membership": {
+        "146": "TFSI",
+        "147": "PS",
+        "148": "PS",
+        "149": "PS",
+        "150": "PS",
+        "151": "PS",
+        "152": "PS",
+        "153": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 12,
+      "inferred_archive_name": "nonLiPS_box7",
+      "natoms": 146,
+      "sulfur_indices": [
+        144,
+        145
+      ],
+      "membership": {
+        "144": "TFSI",
+        "145": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 13,
+      "inferred_archive_name": "LiPS_box7",
+      "natoms": 154,
+      "sulfur_indices": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "membership": {
+        "146": "TFSI",
+        "147": "PS",
+        "148": "PS",
+        "149": "PS",
+        "150": "PS",
+        "151": "PS",
+        "152": "PS",
+        "153": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 14,
+      "inferred_archive_name": "nonLiPS_box8",
+      "natoms": 146,
+      "sulfur_indices": [
+        144,
+        145
+      ],
+      "membership": {
+        "144": "TFSI",
+        "145": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 15,
+      "inferred_archive_name": "LiPS_box8",
+      "natoms": 154,
+      "sulfur_indices": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "membership": {
+        "146": "TFSI",
+        "147": "PS",
+        "148": "PS",
+        "149": "PS",
+        "150": "PS",
+        "151": "PS",
+        "152": "PS",
+        "153": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 16,
+      "inferred_archive_name": "nonLiPS_box9",
+      "natoms": 146,
+      "sulfur_indices": [
+        144,
+        145
+      ],
+      "membership": {
+        "144": "TFSI",
+        "145": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 17,
+      "inferred_archive_name": "LiPS_box9",
+      "natoms": 154,
+      "sulfur_indices": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "membership": {
+        "146": "TFSI",
+        "147": "PS",
+        "148": "PS",
+        "149": "PS",
+        "150": "PS",
+        "151": "PS",
+        "152": "PS",
+        "153": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 18,
+      "inferred_archive_name": "nonLiPS_box10",
+      "natoms": 146,
+      "sulfur_indices": [
+        144,
+        145
+      ],
+      "membership": {
+        "144": "TFSI",
+        "145": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    },
+    {
+      "block": 19,
+      "inferred_archive_name": "LiPS_box10",
+      "natoms": 154,
+      "sulfur_indices": [
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "membership": {
+        "146": "TFSI",
+        "147": "PS",
+        "148": "PS",
+        "149": "PS",
+        "150": "PS",
+        "151": "PS",
+        "152": "PS",
+        "153": "TFSI"
+      },
+      "mapping_basis": "Historical assembly order; block identity not a new independent split"
+    }
+  ],
+  "units": "Angstrom",
+  "pbc": "ASE minimum image",
+  "caveat": "Original molecular membership is geometric at the first frame of each block; no radical or bond-order assignment."
+}

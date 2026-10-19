@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "model_checksums": {
+    "state.pt": "3d8a79a55c2139d51c8b1636c41c089b8b0caa744b0e02146fe6839fd44a1140",
+    "model.pt": "01ebce0730e64e1c5558e058a8fdd47b70e6d8f7f1ab3e3eb4fc9ab38acb6329",
+    "model.json": "e6be1f9f0d6ec219a1a3ffe65368ffd8741aae7b747e1525aef5b598a66f4ac6"
+  },
+  "driver_sha256": "9871fdc444204eaee6bf452bb689f6d6c54063c4615b32871b84a9efd2647f09",
+  "gpu": "NVIDIA A100-SXM4-40GB",
+  "max_energy_difference_eV": 0.0001220703125,
+  "max_force_difference_eV_A": 5.4836273193359375e-06
+}

@@ -1,0 +1,14 @@
+{
+  "nframes": 21,
+  "energy_mae_meV_atom": 4646.63911233832,
+  "energy_rmse_meV_atom": 4646.644932252,
+  "force_mae_meV_A": 185.84410247277,
+  "force_rmse_meV_A": 382.94666314865384,
+  "relative_energy_mae_eV": 1.3246526580728695,
+  "relative_energy_rmse_eV": 1.689615500303082,
+  "energy_reference_image": 0,
+  "geometry": "Unrelaxed fixed-composition 148-atom extracted clusters in vacuum; periodic large cell",
+  "model": "Original production model, not path-adapted",
+  "prediction_status": "Recomputed with unchanged original production model; cached E/F agree within declared GPU tolerance; raw DFT and geometry/order verified separately",
+  "limitations": "These are not bulk reactive DFT labels, free energies, NEB barriers, or independent tests of a path-adapted model."
+}

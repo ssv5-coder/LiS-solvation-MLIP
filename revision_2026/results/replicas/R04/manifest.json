@@ -1,0 +1,119 @@
+{
+  "replica": 4,
+  "natoms": 3445,
+  "composition": {
+    "DOL.pdb": 143,
+    "DME.pdb": 96,
+    "TFSI-.pdb": 20,
+    "Li+.pdb": 20,
+    "Li2S6.pdb": 2
+  },
+  "initial_cell_A": 33.4193985,
+  "packing_seed": 190004,
+  "velocity_seed": 290004,
+  "thermostat_seed": 390004,
+  "stages": [
+    {
+      "name": "01_initial",
+      "start": 0,
+      "end": 100000,
+      "dt": 0.002,
+      "t0": 50,
+      "t1": 300,
+      "ensemble": "langevin_nph",
+      "hmass": 3.016049
+    },
+    {
+      "name": "02_heat",
+      "start": 100000,
+      "end": 300000,
+      "dt": 0.001,
+      "t0": 300,
+      "t1": 350,
+      "ensemble": "langevin_nph",
+      "hmass": 3.016049
+    },
+    {
+      "name": "03_hold",
+      "start": 300000,
+      "end": 400000,
+      "dt": 0.001,
+      "t0": 350,
+      "t1": 350,
+      "ensemble": "langevin_nph",
+      "hmass": 3.016049
+    },
+    {
+      "name": "04_cool",
+      "start": 400000,
+      "end": 600000,
+      "dt": 0.001,
+      "t0": 350,
+      "t1": 300,
+      "ensemble": "langevin_nph",
+      "hmass": 3.016049
+    },
+    {
+      "name": "05_npt",
+      "start": 600000,
+      "end": 800000,
+      "dt": 0.0005,
+      "t0": 300,
+      "t1": 300,
+      "ensemble": "npt",
+      "hmass": 1.00783
+    },
+    {
+      "name": "06_nvt",
+      "start": 800000,
+      "end": 1400000,
+      "dt": 0.0005,
+      "t0": 300,
+      "t1": 300,
+      "ensemble": "nvt",
+      "hmass": 1.00783
+    }
+  ],
+  "deadline_unix": 1793651159.3188941,
+  "minimization": {
+    "optimizer": "FIRE",
+    "fmax_eV_A": 2.0,
+    "max_steps": 500,
+    "relax_cell": true
+  },
+  "atom_ids": {
+    "LS01_S": [
+      3430,
+      3431,
+      3432,
+      3433,
+      3434,
+      3435
+    ],
+    "LS01_Li": [
+      3436,
+      3437
+    ],
+    "LS02_S": [
+      3438,
+      3439,
+      3440,
+      3441,
+      3442,
+      3443
+    ],
+    "LS02_Li": [
+      3444,
+      3445
+    ]
+  },
+  "template_sha256": {
+    "DOL.pdb": "9ce8f87f4875720f2a46763f56d2fae7216f250c83ee3ff10146f5944df88cd0",
+    "DME.pdb": "8fc9c2c9d1490cd9c0862359115153673d0ca37b55c4b3f654a47a9d9ddb0bd8",
+    "TFSI-.pdb": "32a7d7f07c2d75c520f3766d5e7b2f5f9411ef30ff62326241b9d4f99e6fcc01",
+    "Li+.pdb": "390df8797686e566f1cb2370f61d805170065d5b856bfc0a71ac5594e67bdfd1",
+    "Li2S6.pdb": "43bdad0d642f0d55d3ebae65e9deedd70b8ae163bb04fe5a987aaad5e607e502"
+  },
+  "output_changes": "Dump coordinates, image flags and velocities every 10 integration steps; no every-step DCD. Thermo every 100 steps, restart every 5000.",
+  "caveat": "Independent replica of nominal successful protocol, not bitwise reproduction of failed/restarted historical branches."
+}
