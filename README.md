@@ -14,7 +14,7 @@ used for the large-scale ML-MD simulations reported in the manuscript.
 For reproducibility resources and selected reaction restart states, start with
 [`reproducibility/README.md`](reproducibility/README.md).
 The recovered fine-tuning sources and runnable final-stage script are in
-[`training/`](training/README.md). The [model 2.0 guide](training/model2/README.md) describes the reactive fine-tuning code and required inputs.
+[`training/`](training/README.md). The [model 2.0 training guide](training/model2/README.md) includes the reactive data selection, training procedure, and selected epoch-240 potential.
 
 ```text
 LiS-solvation-MLIP/

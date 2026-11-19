@@ -1,0 +1,13 @@
+{
+  "adapter": "threebody_original_edge_ids_v1",
+  "adapter_sha256": "5f0f2ea2e4ffdb0e5e71fbd12f3152d3ffa165d83a1cccc50619dc50222be8cc",
+  "loader": "from runtime_adapter import load_potential; potential = load_potential(checkpoint_path)",
+  "requires_adapter": true,
+  "production_approved": false,
+  "preserved": [
+    "Potential wrapper",
+    "elemental references",
+    "element mapping",
+    "graph cutoffs"
+  ]
+}
