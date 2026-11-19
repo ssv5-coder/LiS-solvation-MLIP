@@ -1,4 +1,4 @@
-replica,polysulfide,ss_cutoff_A,li_cutoff_A,duration_required_ps,frames,last_observation_ps,li_departure_ps,ss_separation_ps,delay_ps,replica_complete,failed_attempts,volume_warning_frames,stability_review_required,status
+replica,polysulfide,ss_cutoff_A,li_cutoff_A,duration_required_ps,frames,last_observation_ps,li_departure_ps,ss_separation_ps,delay_ps,replica_complete,failed_attempts,volume_warning_frames,stability_check_required,status
 R01,LS01,2.6,3.5,1.0,0,,,,,False,0,0,False,pending
 R01,LS01,2.6,4.0,1.0,0,,,,,False,0,0,False,pending
 R01,LS01,2.6,4.5,1.0,0,,,,,False,0,0,False,pending

@@ -1,4 +1,4 @@
-# Filippo: reaction and free-energy handoff
+# Reaction restarts and free-energy calculations
 
 The public entry point is `reproducibility/reaction/README.md`. Use the original
 production model in `models/fine_tuned_m3gnet_model`, not the pathway-adapted fit.

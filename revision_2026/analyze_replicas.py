@@ -137,7 +137,7 @@ def main():
                           replica_complete=(folder / "complete.json").exists(),
                           failed_attempts=len(failed_attempts),
                           volume_warning_frames=len(volume_warnings),
-                          stability_review_required=bool(failed_attempts or volume_warnings),
+                          stability_check_required=bool(failed_attempts or volume_warnings),
                           status="pending" if not times else ("right-censored" if cleavage is None else "geometric-separation-observed")))
     save_csv(WORK / "replicas/replica_event_summary.csv", summaries)
 

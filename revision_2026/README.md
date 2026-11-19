@@ -1,4 +1,4 @@
-# JPC reviewer revision, 19 October 2026
+# Computational analyses, 19 October 2026
 
 This is a working, evidence-based revision, not a completed rebuttal. Original
 models, installed packages, historical calculations and submitted manuscripts
@@ -8,15 +8,12 @@ examples, not portable scheduler settings.
 
 ## Start here
 
-- [Filippo handoff](FILIPPO_HANDOFF.md): selected complete periodic states,
+- [Reaction restarts](REACTION_RESTARTS.md): selected complete periodic states,
   velocities, masses, indices, original engine and potential.
 - [Training reconstruction](../training/README.md): full-network final-stage
   fine-tuning, initialization, logs, missing caches and split limitations.
 - `results/`: compact audit outputs and provenance. No licensed PAW files,
   wavefunctions or full trajectories are released here.
-- Working manuscript/SI and response document are in
-  `JPCRevision/reviewer_revision_20261019/` outside this repository. They are
-  explicitly provisional; final reviewer page/line references await pagination.
 
 ## Completed audits and unresolved scientific issues
 
@@ -94,7 +91,7 @@ tracked. Two polysulfides in one box are correlated observations, not replicas.
   VASP and LAMMPS barostat algorithms differ and are documented.
 - Never publish POTCAR, WAVECAR or CHGCAR from these private working folders.
   HSE final-state spin localization would not establish an original spin-restricted
-  MLIP activation barrier. Filippo leads FES and within-state fluctuations.
+  MLIP activation barrier.
 
 ## Commands
 
@@ -111,9 +108,6 @@ python revision_2026/analyze_spin.py
 
 `analyze_training.py` and `analyze_path.py` require original private data paths.
 `reevaluate_path.py` also needs the archived CUDA environment and a GPU.
-`build_revision_documents.py` creates a new working copy only, refusing to
-overwrite an existing revision. It requires python-docx and pypdf, installed
-locally in the work directory rather than altering the historical environment.
 
 Submit through `sbatch --export=ALL,REVISION_CODE=/absolute/path/revision_2026`.
 Do not resubmit jobs already listed in `results/status.json`. Read failed
@@ -123,10 +117,7 @@ attempt diagnostics before restarting; never hide an exploded trajectory.
 
 Release artifacts have checksums. Required checks include atom mappings, units,
 restart continuity, electronic convergence, original/accelerated numerical
-agreement and block uncertainty. The working response tracker covers R1.1-5
-and R2.1-4. Neither a pilot nor a prepared input counts as resolving a scientific
-reviewer concern. Final figures, claims and page references require the actual
-remaining results, including non-events and inconclusive tests.
+agreement and block uncertainty. Report non-events and inconclusive tests alongside observed events.
 
 References: [cuEquivariance](https://docs.nvidia.com/cuda/cuequivariance/index.html),
 [MatGL LAMMPS](https://github.com/materialyzeai/matgl/blob/main/lammps/README.md),

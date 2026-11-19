@@ -1,4 +1,4 @@
-# Reaction handoff for Filippo
+# Reaction restart configurations
 
 Start with `snapshots/ps_330ps.data` (portable LAMMPS data with a Velocities
 section) or `ps_330ps.restart` (original binary checkpoint).

@@ -26,7 +26,7 @@ def main():
         status["replicas"].append(dict(replica=folder.name, latest_checkpoint=max(steps, default=0),
             complete=(folder / "complete.json").exists(),
             failed_attempts=[str(p.relative_to(folder)) for p in folder.glob("*/attempt_*/failed.json")]))
-    status["interpretation"] = "Job completion is not scientific validation. Pilots are not equilibrium densities; static snapshot energies are not free energies. Filippo's FES and within-state analysis remain external work."
+    status["interpretation"] = "Job completion is not scientific validation. Pilots are not equilibrium densities; static snapshot energies are not free energies. Free-energy and fluctuation analyses were outside this calculation."
     save_json(WORK / "status.json", status)
     print(json.dumps(status, indent=2))
 

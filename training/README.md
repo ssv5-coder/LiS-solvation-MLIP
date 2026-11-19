@@ -87,7 +87,7 @@ match alternating nonLiPS/LiPS boxes 1-10 in the published Training archive.
 The historical validation `test.traj` contains 800 frames. A geometry
 audit against the published Testing archive is provided in
 `historical_validation_matches.json` (positions and cell rounded to 1e-8 A).
-All 800 frames match: 600 PS and 200 non-PS frames. Matching frames must be excluded
+For duplicate geometries, the first listed source also matches the archived energy, forces and stress. All 800 frames match: 600 PS and 200 non-PS frames. Matching frames must be excluded
 from claims of independent held-out testing; preferably hold out entire
 trajectories to avoid temporal leakage. Do not automatically use the Testing
 archive as validation for a new training run.

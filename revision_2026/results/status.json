@@ -114,5 +114,5 @@
     "41333766|jpc_DFT_density_nonPS|RUNNING|27:02|sdfrome090"
   ],
   "squeue_error": null,
-  "interpretation": "Job completion is not scientific validation. Pilots are not equilibrium densities; static snapshot energies are not free energies. Filippo's FES and within-state analysis remain external work."
+  "interpretation": "Job completion is not scientific validation. Pilots are not equilibrium densities; static snapshot energies are not free energies. Free-energy and fluctuation analyses were outside this calculation."
 }

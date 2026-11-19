@@ -2,47 +2,47 @@
   "missing": [
     {
       "state": "afm",
-      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/afm/pilot",
+      "folder": "hse/afm/pilot",
       "reason": "electronic convergence/final timing absent"
     },
     {
       "state": "afm",
-      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/afm/retry01",
+      "folder": "hse/afm/retry01",
       "reason": "electronic convergence/final timing absent"
     },
     {
       "state": "afm",
-      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/afm/retry02",
+      "folder": "hse/afm/retry02",
       "reason": "electronic convergence/final timing absent"
     },
     {
       "state": "fm",
-      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/fm/pilot",
+      "folder": "hse/fm/pilot",
       "reason": "no output"
     },
     {
       "state": "fm",
-      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/fm/retry01",
+      "folder": "hse/fm/retry01",
       "reason": "no output"
     },
     {
       "state": "fm",
-      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/fm/retry02",
+      "folder": "hse/fm/retry02",
       "reason": "no output"
     },
     {
       "state": "nonmagnetic",
-      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/nonmagnetic/pilot",
+      "folder": "hse/nonmagnetic/pilot",
       "reason": "no output"
     },
     {
       "state": "nonmagnetic",
-      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/nonmagnetic/retry01",
+      "folder": "hse/nonmagnetic/retry01",
       "reason": "no output"
     },
     {
       "state": "nonmagnetic",
-      "folder": "/sdf/group/mli/MLIP_Li_S_Fl_Elec/AIMD/chgnet/m3gnet_with_stress/lammps-m3gnet/smaller_model/20x/JPCRevision/reviewer_revision_20261019/hse/nonmagnetic/retry02",
+      "folder": "hse/nonmagnetic/retry02",
       "reason": "no output"
     }
   ],

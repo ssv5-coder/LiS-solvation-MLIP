@@ -1,8 +1,8 @@
 [
   {
     "path": "status.json",
-    "sha256": "980bd92f0f383c6828d4a9a1de62c4a1879f742550c83e718adb979481dbae13",
-    "bytes": 3990
+    "sha256": "9347429b301a12fc3db146f36b4de19ec72ac565020ed88892ae159d2074ce16",
+    "bytes": 3996
   },
   {
     "path": "training_coverage/all_training_ss_distances.csv.gz",
@@ -156,8 +156,8 @@
   },
   {
     "path": "spin/comparison_status.json",
-    "sha256": "8fa08c2ecdc770f2a4e4c9c70c6f075ae20ef2459ac050f4ae3b5532fdc1b50a",
-    "bytes": 2450
+    "sha256": "4b2525f341916f382133a30f320c77f7ff52faebb571035f54b6fee107c657e4",
+    "bytes": 1235
   },
   {
     "path": "spin/converged_fragment_moments.csv",
@@ -176,13 +176,13 @@
   },
   {
     "path": "gpu_optimization/selected_driver.json",
-    "sha256": "dec0234aa424efa89a52c5d39fdeb623456e1a0d1f69d0c6d34926964338d545",
-    "bytes": 440
+    "sha256": "6771cbe943210847b08099dec1a230db1ca743636479cf07cf0e8ae2bd4ae5b9",
+    "bytes": 305
   },
   {
     "path": "replicas/replica_event_summary.csv",
-    "sha256": "479ae0caf48e90209e204f949c92f11eb8beaa5d4de8f296f92c3e7eec7d9278",
-    "bytes": 3894
+    "sha256": "32e465da0b33ef8436fb94024ae9e132c73039f568aabcbf4332440dcae1e0c4",
+    "bytes": 3893
   },
   {
     "path": "replicas/R01/manifest.json",
