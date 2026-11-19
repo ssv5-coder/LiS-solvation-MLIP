@@ -1,0 +1,7 @@
+dataset/
+gates/
+checks/
+locks/
+runs/
+teacher/
+baseline/*.json

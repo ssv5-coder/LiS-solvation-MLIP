@@ -1,0 +1,14 @@
+{
+  "refine": [
+    {
+      "name": "model2_seed0",
+      "seed": 0,
+      "learning_rate": 0.0001,
+      "energy_weight": 1.0,
+      "anchor_weight": 5.0,
+      "layers": "all",
+      "new_probability": 0.25,
+      "reactive_s_weight": 5.0
+    }
+  ]
+}

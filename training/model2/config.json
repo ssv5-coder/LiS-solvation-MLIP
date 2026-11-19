@@ -1,0 +1,43 @@
+{
+  "baseline_hashes": {
+    "state.pt": "3d8a79a55c2139d51c8b1636c41c089b8b0caa744b0e02146fe6839fd44a1140",
+    "model.pt": "01ebce0730e64e1c5558e058a8fdd47b70e6d8f7f1ab3e3eb4fc9ab38acb6329",
+    "model.json": "e6be1f9f0d6ec219a1a3ffe65368ffd8741aae7b747e1525aef5b598a66f4ac6"
+  },
+  "baseline_name": "big_boy_m3gnet_smaller_stress_ada_2_best",
+  "training": {
+    "microbatch": 4,
+    "effective_batch": 56,
+    "draws_per_epoch": 2000,
+    "max_epochs": 5000,
+    "validation_interval": 5,
+    "gradient_clip": 1.0,
+    "stress_initial": 0.01,
+    "stress_final": 0.1,
+    "stress_ramp_epochs": 20,
+    "lr_patience_epochs": 25,
+    "stop_patience_epochs": 100,
+    "lr_min": 1e-07,
+    "meaningful_improvement": 0.005,
+    "initial_new_probability": 0.5,
+    "reactive_s_weight": 5.0
+  },
+  "acceptance": {
+    "sulfur_MAE_eV_A_strict_max": 0.1,
+    "projected_ratio_max": 0.75,
+    "original_force_ratio_max": 1.1,
+    "original_energy_MAE_eV_atom_max": 0.01,
+    "breaking_energy_MAE_eV_atom_max": 0.025,
+    "relative_energy_ratio_max": 1.0,
+    "passing_seeds_min": 2
+  },
+  "reference": {
+    "ENCUT": 600,
+    "ISPIN": 1,
+    "IVDW": 11,
+    "GGA": "PE",
+    "EDIFF": 1e-06,
+    "SIGMA": 0.03,
+    "ISMEAR": 0
+  }
+}
